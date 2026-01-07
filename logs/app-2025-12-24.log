@@ -1,0 +1,798 @@
+2025-12-24 00:13:48 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 00:13:49 [INFO]: Database connected
+2025-12-24 00:13:49 [INFO]: Default data initialization complete
+2025-12-24 00:13:49 [INFO]: Starting server on port 5000...
+2025-12-24 00:13:49 [INFO]: Server listening on http://localhost:5000
+2025-12-24 00:18:55 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 00:18:55 [INFO]: Database connected
+2025-12-24 00:18:55 [INFO]: Default data initialization complete
+2025-12-24 00:18:55 [INFO]: Starting server on port 5000...
+2025-12-24 00:18:55 [INFO]: Server listening on http://localhost:5000
+2025-12-24 00:26:16 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 00:26:16 [INFO]: Database connected
+2025-12-24 00:26:16 [INFO]: Default data initialization complete
+2025-12-24 00:26:16 [INFO]: Starting server on port 5000...
+2025-12-24 00:26:16 [INFO]: Server listening on http://localhost:5000
+2025-12-24 00:34:48 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:115:38)
+2025-12-24 00:34:52 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:115:38)
+2025-12-24 00:35:03 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:115:38)
+2025-12-24 00:35:07 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:115:38)
+2025-12-24 00:38:16 [INFO]: User logged in: admin@company.com
+2025-12-24 01:33:21 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:33:21 [INFO]: Database connected
+2025-12-24 01:33:21 [INFO]: Default data initialization complete
+2025-12-24 01:33:21 [INFO]: Starting server on port 5000...
+2025-12-24 01:33:21 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:33:44 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:33:44 [INFO]: Database connected
+2025-12-24 01:33:44 [INFO]: Default data initialization complete
+2025-12-24 01:33:44 [INFO]: Starting server on port 5000...
+2025-12-24 01:33:44 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:33:55 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:33:55 [INFO]: Database connected
+2025-12-24 01:33:55 [INFO]: Default data initialization complete
+2025-12-24 01:33:55 [INFO]: Starting server on port 5000...
+2025-12-24 01:33:55 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:34:49 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:34:49 [INFO]: Database connected
+2025-12-24 01:34:49 [INFO]: Default data initialization complete
+2025-12-24 01:34:49 [INFO]: Starting server on port 5000...
+2025-12-24 01:34:49 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:35:11 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:35:12 [INFO]: Database connected
+2025-12-24 01:35:12 [INFO]: Default data initialization complete
+2025-12-24 01:35:12 [INFO]: Starting server on port 5000...
+2025-12-24 01:35:12 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:35:19 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:35:19 [INFO]: Database connected
+2025-12-24 01:35:19 [INFO]: Default data initialization complete
+2025-12-24 01:35:19 [INFO]: Starting server on port 5000...
+2025-12-24 01:35:19 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:35:26 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:35:26 [INFO]: Database connected
+2025-12-24 01:35:26 [INFO]: Default data initialization complete
+2025-12-24 01:35:26 [INFO]: Starting server on port 5000...
+2025-12-24 01:35:26 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:35:28 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:35:28 [INFO]: Database connected
+2025-12-24 01:35:28 [INFO]: Default data initialization complete
+2025-12-24 01:35:28 [INFO]: Starting server on port 5000...
+2025-12-24 01:35:28 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:40:15 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 01:40:19 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 01:41:00 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:115:38)
+2025-12-24 01:44:21 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:44:21 [INFO]: Database connected
+2025-12-24 01:44:21 [INFO]: Default data initialization complete
+2025-12-24 01:44:21 [INFO]: Starting server on port 5000...
+2025-12-24 01:44:21 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:44:26 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:44:26 [INFO]: Database connected
+2025-12-24 01:44:26 [INFO]: Default data initialization complete
+2025-12-24 01:44:26 [INFO]: Starting server on port 5000...
+2025-12-24 01:44:26 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:44:41 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:44:41 [INFO]: Database connected
+2025-12-24 01:44:41 [INFO]: Default data initialization complete
+2025-12-24 01:44:41 [INFO]: Starting server on port 5000...
+2025-12-24 01:44:41 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:44:54 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:44:54 [INFO]: Database connected
+2025-12-24 01:44:54 [INFO]: Default data initialization complete
+2025-12-24 01:44:54 [INFO]: Starting server on port 5000...
+2025-12-24 01:44:54 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:44:59 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:44:59 [INFO]: Database connected
+2025-12-24 01:44:59 [INFO]: Default data initialization complete
+2025-12-24 01:44:59 [INFO]: Starting server on port 5000...
+2025-12-24 01:44:59 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:46:09 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:46:09 [INFO]: Database connected
+2025-12-24 01:46:09 [INFO]: Default data initialization complete
+2025-12-24 01:46:09 [INFO]: Starting server on port 5000...
+2025-12-24 01:46:09 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:50:22 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:50:22 [INFO]: Database connected
+2025-12-24 01:50:22 [INFO]: Default data initialization complete
+2025-12-24 01:50:22 [INFO]: Starting server on port 5000...
+2025-12-24 01:50:22 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:51:41 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:51:41 [INFO]: Database connected
+2025-12-24 01:51:41 [INFO]: Default data initialization complete
+2025-12-24 01:51:41 [INFO]: Starting server on port 5000...
+2025-12-24 01:51:41 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:51:48 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:51:48 [INFO]: Database connected
+2025-12-24 01:51:48 [INFO]: Default data initialization complete
+2025-12-24 01:51:48 [INFO]: Starting server on port 5000...
+2025-12-24 01:51:48 [INFO]: Server listening on http://localhost:5000
+2025-12-24 01:51:57 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 01:51:58 [INFO]: Database connected
+2025-12-24 01:51:58 [INFO]: Default data initialization complete
+2025-12-24 01:51:58 [INFO]: Starting server on port 5000...
+2025-12-24 01:51:58 [INFO]: Server listening on http://localhost:5000
+2025-12-24 02:16:44 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 02:16:44 [INFO]: Database connected
+2025-12-24 02:16:44 [INFO]: Default data initialization complete
+2025-12-24 02:16:44 [INFO]: Starting server on port 5000...
+2025-12-24 02:16:44 [INFO]: Server listening on http://localhost:5000
+2025-12-24 02:20:50 [ERROR]: ZodError: [
+  {
+    "code": "too_small",
+    "minimum": 1,
+    "type": "string",
+    "inclusive": true,
+    "exact": false,
+    "message": "String must contain at least 1 character(s)",
+    "path": [
+      "name"
+    ]
+  },
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 02:20:54 [ERROR]: ZodError: [
+  {
+    "code": "too_small",
+    "minimum": 1,
+    "type": "string",
+    "inclusive": true,
+    "exact": false,
+    "message": "String must contain at least 1 character(s)",
+    "path": [
+      "name"
+    ]
+  },
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 02:24:52 [INFO]: Leave request created for 1099
+2025-12-24 02:25:31 [INFO]: Leave request approved for 1099
+2025-12-24 03:00:16 [INFO]: SIGINT received, shutting down gracefully
+2025-12-24 03:04:33 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 03:04:33 [INFO]: Database connected
+2025-12-24 03:04:33 [INFO]: Default data initialization complete
+2025-12-24 03:04:33 [INFO]: Starting server on port 5000...
+2025-12-24 03:04:33 [INFO]: Server listening on http://localhost:5000
+2025-12-24 03:05:13 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 03:05:13 [INFO]: Database connected
+2025-12-24 03:05:13 [INFO]: Default data initialization complete
+2025-12-24 03:05:13 [INFO]: Starting server on port 5000...
+2025-12-24 03:05:13 [INFO]: Server listening on http://localhost:5000
+2025-12-24 03:05:18 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 03:05:18 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 03:05:18 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 03:05:18 [INFO]: Database connected
+2025-12-24 03:05:18 [INFO]: Default data initialization complete
+2025-12-24 03:05:18 [INFO]: Starting server on port 5000...
+2025-12-24 03:05:18 [INFO]: Server listening on http://localhost:5000
+2025-12-24 03:05:22 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 03:05:22 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 03:05:22 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 03:05:23 [INFO]: Database connected
+2025-12-24 03:05:23 [INFO]: Default data initialization complete
+2025-12-24 03:05:23 [INFO]: Starting server on port 5000...
+2025-12-24 03:05:23 [INFO]: Server listening on http://localhost:5000
+2025-12-24 03:06:10 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 03:06:10 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 03:06:10 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 03:06:10 [INFO]: Database connected
+2025-12-24 03:06:10 [INFO]: Default data initialization complete
+2025-12-24 03:06:10 [INFO]: Starting server on port 5000...
+2025-12-24 03:06:10 [INFO]: Server listening on http://localhost:5000
+2025-12-24 03:31:26 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 03:31:26 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 03:31:26 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 03:31:26 [INFO]: Database connected
+2025-12-24 03:31:26 [INFO]: Default data initialization complete
+2025-12-24 03:31:26 [INFO]: Starting server on port 5000...
+2025-12-24 03:31:26 [INFO]: Server listening on http://localhost:5000
+2025-12-24 06:21:32 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 06:21:32 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 06:21:32 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 06:21:32 [INFO]: Database connected
+2025-12-24 06:21:32 [INFO]: Default data initialization complete
+2025-12-24 06:21:32 [INFO]: Starting server on port 5000...
+2025-12-24 06:21:32 [INFO]: Server listening on http://localhost:5000
+2025-12-24 06:25:37 [INFO]: User logged in: admin@company.com
+2025-12-24 06:45:10 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 06:45:15 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 06:45:46 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 06:46:07 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 06:49:27 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 06:49:27 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 06:49:27 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 06:49:27 [INFO]: Database connected
+2025-12-24 06:49:27 [INFO]: Default data initialization complete
+2025-12-24 06:49:27 [INFO]: Starting server on port 5000...
+2025-12-24 06:49:27 [INFO]: Server listening on http://localhost:5000
+2025-12-24 06:49:31 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 06:49:31 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 06:49:31 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 06:49:31 [INFO]: Database connected
+2025-12-24 06:49:31 [INFO]: Default data initialization complete
+2025-12-24 06:49:31 [INFO]: Starting server on port 5000...
+2025-12-24 06:49:31 [INFO]: Server listening on http://localhost:5000
+2025-12-24 06:49:39 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 06:49:39 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 06:49:39 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 06:49:39 [INFO]: Database connected
+2025-12-24 06:49:39 [INFO]: Default data initialization complete
+2025-12-24 06:49:39 [INFO]: Starting server on port 5000...
+2025-12-24 06:49:39 [INFO]: Server listening on http://localhost:5000
+2025-12-24 06:49:57 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 06:49:57 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 06:49:57 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 06:49:57 [INFO]: Database connected
+2025-12-24 06:49:57 [INFO]: Default data initialization complete
+2025-12-24 06:49:57 [INFO]: Starting server on port 5000...
+2025-12-24 06:49:57 [INFO]: Server listening on http://localhost:5000
+2025-12-24 06:49:59 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 06:49:59 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 06:49:59 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 06:49:59 [INFO]: Database connected
+2025-12-24 06:49:59 [INFO]: Default data initialization complete
+2025-12-24 06:49:59 [INFO]: Starting server on port 5000...
+2025-12-24 06:49:59 [INFO]: Server listening on http://localhost:5000
+2025-12-24 06:50:02 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 06:50:02 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 06:50:02 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 06:50:02 [INFO]: Database connected
+2025-12-24 06:50:02 [INFO]: Default data initialization complete
+2025-12-24 06:50:02 [INFO]: Starting server on port 5000...
+2025-12-24 06:50:02 [INFO]: Server listening on http://localhost:5000
+2025-12-24 06:50:04 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 06:50:04 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 06:50:04 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 06:50:04 [INFO]: Database connected
+2025-12-24 06:50:04 [INFO]: Default data initialization complete
+2025-12-24 06:50:04 [INFO]: Starting server on port 5000...
+2025-12-24 06:50:04 [INFO]: Server listening on http://localhost:5000
+2025-12-24 06:50:07 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 06:50:07 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 06:50:07 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 06:50:07 [INFO]: Database connected
+2025-12-24 06:50:07 [INFO]: Default data initialization complete
+2025-12-24 06:50:07 [INFO]: Starting server on port 5000...
+2025-12-24 06:50:07 [INFO]: Server listening on http://localhost:5000
+2025-12-24 06:50:10 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 06:50:10 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 06:50:10 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 06:50:10 [INFO]: Database connected
+2025-12-24 06:50:10 [INFO]: Default data initialization complete
+2025-12-24 06:50:10 [INFO]: Starting server on port 5000...
+2025-12-24 06:50:10 [INFO]: Server listening on http://localhost:5000
+2025-12-24 06:50:21 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 06:50:21 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 06:50:21 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 06:50:21 [INFO]: Database connected
+2025-12-24 06:50:21 [INFO]: Default data initialization complete
+2025-12-24 06:50:21 [INFO]: Starting server on port 5000...
+2025-12-24 06:50:21 [INFO]: Server listening on http://localhost:5000
+2025-12-24 06:53:06 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 06:53:06 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 06:53:06 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 06:53:06 [INFO]: Database connected
+2025-12-24 06:53:06 [INFO]: Default data initialization complete
+2025-12-24 06:53:06 [INFO]: Starting server on port 5000...
+2025-12-24 06:53:06 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:00:10 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:00:10 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:00:10 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:00:10 [INFO]: Database connected
+2025-12-24 07:00:10 [INFO]: Default data initialization complete
+2025-12-24 07:00:10 [INFO]: Starting server on port 5000...
+2025-12-24 07:00:10 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:01:11 [ERROR]: ZodError: [
+  {
+    "code": "too_small",
+    "minimum": 1,
+    "type": "string",
+    "inclusive": true,
+    "exact": false,
+    "message": "String must contain at least 1 character(s)",
+    "path": [
+      "name"
+    ]
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 07:08:53 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:08:53 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:08:53 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:08:53 [INFO]: Database connected
+2025-12-24 07:08:53 [INFO]: Default data initialization complete
+2025-12-24 07:08:53 [INFO]: Starting server on port 5000...
+2025-12-24 07:08:53 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:22:42 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:22:42 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:22:42 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:22:42 [INFO]: Database connected
+2025-12-24 07:22:42 [INFO]: Default data initialization complete
+2025-12-24 07:22:42 [INFO]: Starting server on port 5000...
+2025-12-24 07:22:42 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:30:36 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:30:36 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:30:36 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:30:36 [INFO]: Database connected
+2025-12-24 07:30:36 [INFO]: Default data initialization complete
+2025-12-24 07:30:36 [INFO]: Starting server on port 5000...
+2025-12-24 07:30:36 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:32:16 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:32:16 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:32:16 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:32:16 [INFO]: Database connected
+2025-12-24 07:32:16 [INFO]: Default data initialization complete
+2025-12-24 07:32:16 [INFO]: Starting server on port 5000...
+2025-12-24 07:32:16 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:38:01 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:38:01 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:38:01 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:38:01 [INFO]: Database connected
+2025-12-24 07:38:01 [INFO]: Default data initialization complete
+2025-12-24 07:38:01 [INFO]: Starting server on port 5000...
+2025-12-24 07:38:01 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:39:21 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:39:21 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:39:21 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:39:21 [INFO]: Database connected
+2025-12-24 07:39:22 [INFO]: Default data initialization complete
+2025-12-24 07:39:22 [INFO]: Starting server on port 5000...
+2025-12-24 07:39:22 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:39:43 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:39:43 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:39:43 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:39:43 [INFO]: Database connected
+2025-12-24 07:39:43 [INFO]: Default data initialization complete
+2025-12-24 07:39:43 [INFO]: Starting server on port 5000...
+2025-12-24 07:39:43 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:40:35 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:40:35 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:40:35 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:40:36 [INFO]: Database connected
+2025-12-24 07:40:36 [INFO]: Default data initialization complete
+2025-12-24 07:40:36 [INFO]: Starting server on port 5000...
+2025-12-24 07:40:36 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:41:00 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:41:00 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:41:00 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:41:00 [INFO]: Database connected
+2025-12-24 07:41:01 [INFO]: Default data initialization complete
+2025-12-24 07:41:01 [INFO]: Starting server on port 5000...
+2025-12-24 07:41:01 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:41:19 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:41:19 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:41:19 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:41:19 [INFO]: Database connected
+2025-12-24 07:41:19 [INFO]: Default data initialization complete
+2025-12-24 07:41:19 [INFO]: Starting server on port 5000...
+2025-12-24 07:41:19 [INFO]: About to call httpServer.listen on port 5000
+2025-12-24 07:41:19 [INFO]: httpServer.listen callback invoked!
+2025-12-24 07:41:19 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:41:25 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:41:25 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:41:25 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:41:25 [INFO]: Database connected
+2025-12-24 07:41:25 [INFO]: Default data initialization complete
+2025-12-24 07:41:25 [INFO]: Starting server on port 5000...
+2025-12-24 07:41:25 [INFO]: About to call httpServer.listen on port 5000
+2025-12-24 07:41:25 [INFO]: httpServer.listen callback invoked!
+2025-12-24 07:41:25 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:41:48 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:41:48 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:41:48 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:41:48 [INFO]: Database connected
+2025-12-24 07:41:48 [INFO]: Default data initialization complete
+2025-12-24 07:41:48 [INFO]: Starting server on port 5000...
+2025-12-24 07:41:48 [INFO]: About to call httpServer.listen on port 5000
+2025-12-24 07:41:48 [INFO]: httpServer.listen callback invoked!
+2025-12-24 07:41:48 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:42:10 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:42:10 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:42:10 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:42:10 [INFO]: Database connected
+2025-12-24 07:42:10 [INFO]: Default data initialization complete
+2025-12-24 07:43:13 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:43:13 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:43:13 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:43:13 [INFO]: Database connected
+2025-12-24 07:43:13 [INFO]: Default data initialization complete
+2025-12-24 07:43:13 [INFO]: Starting server on port 5000...
+2025-12-24 07:43:13 [INFO]: About to call httpServer.listen on port 5000
+2025-12-24 07:43:13 [INFO]: httpServer.listen callback invoked!
+2025-12-24 07:43:13 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:44:24 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:44:24 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:44:25 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:44:25 [INFO]: Database connected
+2025-12-24 07:44:25 [INFO]: Default data initialization complete
+2025-12-24 07:44:25 [INFO]: Starting server on port 5000...
+2025-12-24 07:44:25 [INFO]: About to call httpServer.listen on port 5000
+2025-12-24 07:44:25 [INFO]: httpServer.listen callback invoked!
+2025-12-24 07:44:25 [INFO]: Server listening on http://localhost:5000
+2025-12-24 07:44:35 [INFO]: Login attempt for email: admin@company.com
+2025-12-24 07:44:35 [INFO]: User logged in: admin@company.com
+2025-12-24 07:44:49 [INFO]: Login attempt for email: admin@company.com
+2025-12-24 07:44:49 [INFO]: User logged in: admin@company.com
+2025-12-24 07:45:38 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:45:38 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:45:38 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:45:38 [INFO]: Database connected
+2025-12-24 07:45:38 [INFO]: Default data initialization complete
+2025-12-24 07:48:26 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 07:48:26 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 07:48:26 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 07:48:26 [INFO]: Database connected
+2025-12-24 07:48:26 [INFO]: Default data initialization complete
+2025-12-24 07:48:26 [INFO]: Starting server on port 5000...
+2025-12-24 07:48:26 [INFO]: About to call httpServer.listen on port 5000
+2025-12-24 07:48:26 [INFO]: httpServer.listen callback invoked!
+2025-12-24 07:48:26 [INFO]: Server listening on http://localhost:5000
+2025-12-24 08:03:50 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 08:03:50 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 08:03:51 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 08:03:51 [INFO]: Database connected
+2025-12-24 08:03:51 [INFO]: Default data initialization complete
+2025-12-24 08:03:51 [INFO]: Starting server on port 5000...
+2025-12-24 08:03:51 [INFO]: About to call httpServer.listen on port 5000
+2025-12-24 08:03:51 [INFO]: httpServer.listen callback invoked!
+2025-12-24 08:03:51 [INFO]: Server listening on http://localhost:5000
+2025-12-24 08:04:24 [INFO]: Login attempt for email: admin@company.com
+2025-12-24 08:04:24 [INFO]: User logged in: admin@company.com
+2025-12-24 08:07:30 [INFO]: Login attempt for email: admin@company.com
+2025-12-24 08:07:30 [INFO]: User logged in: admin@company.com
+2025-12-24 08:07:43 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 08:07:43 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 08:07:43 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 08:07:43 [INFO]: Database connected
+2025-12-24 08:07:43 [INFO]: Default data initialization complete
+2025-12-24 08:07:43 [INFO]: Starting server on port 5000...
+2025-12-24 08:07:43 [INFO]: About to call httpServer.listen on port 5000
+2025-12-24 08:07:43 [INFO]: httpServer.listen callback invoked!
+2025-12-24 08:07:43 [INFO]: Server listening on http://localhost:5000
+2025-12-24 08:07:45 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 08:07:45 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 08:07:45 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 08:07:45 [INFO]: Database connected
+2025-12-24 08:07:45 [INFO]: Default data initialization complete
+2025-12-24 08:07:45 [INFO]: Starting server on port 5000...
+2025-12-24 08:07:45 [INFO]: About to call httpServer.listen on port 5000
+2025-12-24 08:07:45 [INFO]: httpServer.listen callback invoked!
+2025-12-24 08:07:45 [INFO]: Server listening on http://localhost:5000
+2025-12-24 08:09:40 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 08:09:40 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 08:09:40 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 08:09:40 [INFO]: Database connected
+2025-12-24 08:09:40 [INFO]: Default data initialization complete
+2025-12-24 08:09:40 [INFO]: Starting server on port 5000...
+2025-12-24 08:09:40 [INFO]: About to call httpServer.listen on port 5000
+2025-12-24 08:09:40 [INFO]: httpServer.listen callback invoked!
+2025-12-24 08:09:40 [INFO]: Server listening on http://localhost:5000
+2025-12-24 08:10:01 [INFO]: Login attempt for email: admin@company.com
+2025-12-24 08:10:01 [INFO]: User logged in: admin@company.com
+2025-12-24 08:10:01 [INFO]: Starting fingerprint enrollment for employee: EMP001
+2025-12-24 08:10:01 [INFO]: Starting fingerprint enrollment for employee: EMP001
+2025-12-24 08:10:01 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-24 08:10:01 [INFO]: Starting fingerprint capture...
+2025-12-24 08:10:06 [INFO]: Fingerprint captured successfully
+2025-12-24 08:10:07 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-24 08:10:07 [INFO]: Starting fingerprint capture...
+2025-12-24 08:10:11 [INFO]: Fingerprint captured successfully
+2025-12-24 08:10:12 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-24 08:10:12 [INFO]: Starting fingerprint capture...
+2025-12-24 08:10:17 [INFO]: Fingerprint captured successfully
+2025-12-24 08:10:18 [INFO]: Enrollment successful for employee: EMP001
+2025-12-24 08:10:48 [INFO]: Login attempt for email: admin@company.com
+2025-12-24 08:10:48 [INFO]: User logged in: admin@company.com
+2025-12-24 08:10:48 [INFO]: Starting fingerprint enrollment for employee: EMP001
+2025-12-24 08:10:48 [INFO]: Starting fingerprint enrollment for employee: EMP001
+2025-12-24 08:10:48 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-24 08:10:48 [INFO]: Starting fingerprint capture...
+2025-12-24 08:10:51 [INFO]: Fingerprint captured successfully
+2025-12-24 08:10:52 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-24 08:10:52 [INFO]: Starting fingerprint capture...
+2025-12-24 08:10:54 [INFO]: Fingerprint captured successfully
+2025-12-24 08:10:55 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-24 08:10:55 [INFO]: Starting fingerprint capture...
+2025-12-24 08:11:00 [INFO]: Fingerprint captured successfully
+2025-12-24 08:11:01 [INFO]: Enrollment successful for employee: EMP001
+2025-12-24 08:11:49 [INFO]: Login attempt for email: admin@company.com
+2025-12-24 08:11:50 [INFO]: User logged in: admin@company.com
+2025-12-24 08:12:21 [INFO]: Login attempt for email: admin@company.com
+2025-12-24 08:12:21 [INFO]: User logged in: admin@company.com
+2025-12-24 08:12:21 [INFO]: Starting fingerprint enrollment for employee: EMP001
+2025-12-24 08:12:21 [INFO]: Starting fingerprint enrollment for employee: EMP001
+2025-12-24 08:12:21 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-24 08:12:21 [INFO]: Starting fingerprint capture...
+2025-12-24 08:12:24 [INFO]: Fingerprint captured successfully
+2025-12-24 08:12:25 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-24 08:12:25 [INFO]: Starting fingerprint capture...
+2025-12-24 08:12:28 [INFO]: Fingerprint captured successfully
+2025-12-24 08:12:29 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-24 08:12:29 [INFO]: Starting fingerprint capture...
+2025-12-24 08:12:31 [INFO]: Fingerprint captured successfully
+2025-12-24 08:12:32 [INFO]: Enrollment successful for employee: EMP001
+2025-12-24 08:12:44 [INFO]: Login attempt for email: admin@company.com
+2025-12-24 08:12:44 [INFO]: User logged in: admin@company.com
+2025-12-24 08:12:44 [INFO]: Starting fingerprint enrollment for employee: EMP001
+2025-12-24 08:12:44 [INFO]: Starting fingerprint enrollment for employee: EMP001
+2025-12-24 08:12:44 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-24 08:12:44 [INFO]: Starting fingerprint capture...
+2025-12-24 08:12:46 [INFO]: Fingerprint captured successfully
+2025-12-24 08:12:47 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-24 08:12:47 [INFO]: Starting fingerprint capture...
+2025-12-24 08:12:52 [INFO]: Fingerprint captured successfully
+2025-12-24 08:12:53 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-24 08:12:53 [INFO]: Starting fingerprint capture...
+2025-12-24 08:12:55 [INFO]: Fingerprint captured successfully
+2025-12-24 08:12:56 [INFO]: Enrollment successful for employee: EMP001
+2025-12-24 08:12:56 [INFO]: Fingerprint enrollment completed for employee: EMP001
+2025-12-24 08:13:18 [INFO]: Fingerprint enrollment completed for employee: EMP001
+2025-12-24 08:13:31 [INFO]: Login attempt for email: admin@company.com
+2025-12-24 08:13:31 [INFO]: User logged in: admin@company.com
+2025-12-24 08:13:31 [INFO]: Verifying fingerprint for employee: EMP001
+2025-12-24 08:13:31 [INFO]: Starting fingerprint verification...
+2025-12-24 08:13:31 [INFO]: Starting fingerprint capture...
+2025-12-24 08:13:34 [INFO]: Fingerprint captured successfully
+2025-12-24 08:13:34 [INFO]: Fingerprint verification complete. Match: true, Similarity: 99%
+2025-12-24 08:13:34 [INFO]: Fingerprint verification successful for EMP001. Similarity: 99%
+2025-12-24 08:14:05 [INFO]: Login attempt for email: admin@company.com
+2025-12-24 08:14:05 [INFO]: User logged in: admin@company.com
+2025-12-24 08:14:05 [INFO]: Starting fingerprint enrollment for employee: EMP002
+2025-12-24 08:14:05 [INFO]: Starting fingerprint enrollment for employee: EMP002
+2025-12-24 08:14:05 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-24 08:14:05 [INFO]: Starting fingerprint capture...
+2025-12-24 08:14:09 [INFO]: Fingerprint captured successfully
+2025-12-24 08:14:10 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-24 08:14:10 [INFO]: Starting fingerprint capture...
+2025-12-24 08:14:13 [INFO]: Fingerprint captured successfully
+2025-12-24 08:14:14 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-24 08:14:14 [INFO]: Starting fingerprint capture...
+2025-12-24 08:14:17 [INFO]: Fingerprint captured successfully
+2025-12-24 08:14:18 [INFO]: Enrollment successful for employee: EMP002
+2025-12-24 08:14:18 [INFO]: Fingerprint enrollment completed for employee: EMP002
+2025-12-24 08:14:24 [INFO]: Fingerprint enrollment completed for employee: EMP002
+2025-12-24 08:16:01 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 08:16:01 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 08:16:01 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 08:16:01 [INFO]: Database connected
+2025-12-24 08:16:01 [INFO]: Default data initialization complete
+2025-12-24 08:18:07 [INFO]: Initializing USB fingerprint scanner...
+2025-12-24 08:18:07 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-24 08:18:07 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-24 08:18:07 [INFO]: Database connected
+2025-12-24 08:18:07 [INFO]: Default data initialization complete
+2025-12-24 08:18:07 [INFO]: Starting server on port 5000...
+2025-12-24 08:18:07 [INFO]: About to call httpServer.listen on port 5000
+2025-12-24 08:18:07 [INFO]: httpServer.listen callback invoked!
+2025-12-24 08:18:07 [INFO]: Server listening on http://localhost:5000
+2025-12-24 08:24:30 [INFO]: Login attempt for email: admin@company.com
+2025-12-24 08:24:31 [INFO]: User logged in: admin@company.com

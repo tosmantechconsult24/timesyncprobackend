@@ -1,0 +1,241 @@
+2025-12-30 20:46:48 [INFO]: Initializing USB fingerprint scanner...
+2025-12-30 20:46:48 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-30 20:46:48 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-30 20:46:49 [INFO]: Database connected
+2025-12-30 20:46:49 [INFO]: Default data initialization complete
+2025-12-30 20:46:49 [INFO]: Starting server on port 5000...
+2025-12-30 20:46:49 [INFO]: About to call httpServer.listen on port 5000
+2025-12-30 20:46:49 [INFO]: httpServer.listen callback invoked!
+2025-12-30 20:46:49 [INFO]: Server listening on http://localhost:5000
+2025-12-30 20:49:03 [INFO]: Login attempt for email: admin@company.com
+2025-12-30 20:49:03 [INFO]: User logged in: admin@company.com
+2025-12-30 21:04:18 [INFO]: Initializing USB fingerprint scanner...
+2025-12-30 21:04:18 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-30 21:04:18 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-30 21:04:18 [INFO]: Database connected
+2025-12-30 21:04:18 [INFO]: Default data initialization complete
+2025-12-30 21:04:18 [INFO]: Starting server on port 5000...
+2025-12-30 21:04:18 [INFO]: About to call httpServer.listen on port 5000
+2025-12-30 21:04:18 [INFO]: httpServer.listen callback invoked!
+2025-12-30 21:04:18 [INFO]: Server listening on http://localhost:5000
+2025-12-30 21:19:03 [INFO]: Initializing USB fingerprint scanner...
+2025-12-30 21:19:03 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-30 21:19:03 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-30 21:19:03 [INFO]: Database connected
+2025-12-30 21:19:03 [INFO]: Default data initialization complete
+2025-12-30 21:19:03 [INFO]: Starting server on port 5000...
+2025-12-30 21:19:03 [INFO]: About to call httpServer.listen on port 5000
+2025-12-30 21:19:03 [INFO]: httpServer.listen callback invoked!
+2025-12-30 21:19:03 [INFO]: Server listening on http://localhost:5000
+2025-12-30 21:21:43 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:21:43 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:21:43 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:21:43 [INFO]: Starting fingerprint capture...
+2025-12-30 21:21:46 [INFO]: Fingerprint captured successfully
+2025-12-30 21:21:47 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:21:47 [INFO]: Starting fingerprint capture...
+2025-12-30 21:21:50 [INFO]: Fingerprint captured successfully
+2025-12-30 21:21:51 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:21:51 [INFO]: Starting fingerprint capture...
+2025-12-30 21:21:53 [INFO]: Fingerprint captured successfully
+2025-12-30 21:21:54 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:25:47 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:25:47 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:25:47 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:25:47 [INFO]: Starting fingerprint capture...
+2025-12-30 21:25:51 [INFO]: Fingerprint captured successfully
+2025-12-30 21:25:52 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:25:52 [INFO]: Starting fingerprint capture...
+2025-12-30 21:25:54 [INFO]: Fingerprint captured successfully
+2025-12-30 21:25:55 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:25:55 [INFO]: Starting fingerprint capture...
+2025-12-30 21:25:57 [INFO]: Fingerprint captured successfully
+2025-12-30 21:25:58 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:26:11 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:26:11 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:26:11 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:26:11 [INFO]: Starting fingerprint capture...
+2025-12-30 21:26:13 [INFO]: Fingerprint captured successfully
+2025-12-30 21:26:14 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:26:14 [INFO]: Starting fingerprint capture...
+2025-12-30 21:26:17 [INFO]: Fingerprint captured successfully
+2025-12-30 21:26:18 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:26:18 [INFO]: Starting fingerprint capture...
+2025-12-30 21:26:22 [INFO]: Fingerprint captured successfully
+2025-12-30 21:26:23 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:26:41 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:26:41 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:26:41 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:26:41 [INFO]: Starting fingerprint capture...
+2025-12-30 21:26:45 [INFO]: Fingerprint captured successfully
+2025-12-30 21:26:46 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:26:46 [INFO]: Starting fingerprint capture...
+2025-12-30 21:26:48 [INFO]: Fingerprint captured successfully
+2025-12-30 21:26:49 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:26:49 [INFO]: Starting fingerprint capture...
+2025-12-30 21:26:52 [INFO]: Fingerprint captured successfully
+2025-12-30 21:26:53 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:26:59 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:26:59 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:26:59 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:26:59 [INFO]: Starting fingerprint capture...
+2025-12-30 21:27:04 [INFO]: Fingerprint captured successfully
+2025-12-30 21:27:05 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:27:05 [INFO]: Starting fingerprint capture...
+2025-12-30 21:27:08 [INFO]: Fingerprint captured successfully
+2025-12-30 21:27:09 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:27:09 [INFO]: Starting fingerprint capture...
+2025-12-30 21:27:12 [INFO]: Fingerprint captured successfully
+2025-12-30 21:27:13 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:27:19 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:27:19 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:27:19 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:27:19 [INFO]: Starting fingerprint capture...
+2025-12-30 21:27:24 [INFO]: Fingerprint captured successfully
+2025-12-30 21:27:25 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:27:25 [INFO]: Starting fingerprint capture...
+2025-12-30 21:27:27 [INFO]: Fingerprint captured successfully
+2025-12-30 21:27:28 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:27:28 [INFO]: Starting fingerprint capture...
+2025-12-30 21:27:33 [INFO]: Fingerprint captured successfully
+2025-12-30 21:27:34 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:47:21 [INFO]: Initializing USB fingerprint scanner...
+2025-12-30 21:47:21 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-30 21:47:21 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-30 21:47:21 [INFO]: Database connected
+2025-12-30 21:47:21 [INFO]: Default data initialization complete
+2025-12-30 21:47:21 [INFO]: Starting server on port 5000...
+2025-12-30 21:47:21 [INFO]: About to call httpServer.listen on port 5000
+2025-12-30 21:47:21 [INFO]: httpServer.listen callback invoked!
+2025-12-30 21:47:21 [INFO]: Server listening on http://localhost:5000
+2025-12-30 21:48:44 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:48:44 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:48:44 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:48:44 [INFO]: Starting fingerprint capture...
+2025-12-30 21:48:47 [INFO]: Fingerprint captured successfully
+2025-12-30 21:48:48 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:48:48 [INFO]: Starting fingerprint capture...
+2025-12-30 21:48:52 [INFO]: Fingerprint captured successfully
+2025-12-30 21:48:53 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:48:53 [INFO]: Starting fingerprint capture...
+2025-12-30 21:48:58 [INFO]: Fingerprint captured successfully
+2025-12-30 21:48:59 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:49:04 [INFO]: Fingerprint enrollment completed for employee: CT1012
+2025-12-30 21:52:53 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:52:53 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:52:53 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:52:53 [INFO]: Starting fingerprint capture...
+2025-12-30 21:52:56 [INFO]: Fingerprint captured successfully
+2025-12-30 21:52:57 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:52:57 [INFO]: Starting fingerprint capture...
+2025-12-30 21:53:00 [INFO]: Fingerprint captured successfully
+2025-12-30 21:53:01 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:53:01 [INFO]: Starting fingerprint capture...
+2025-12-30 21:53:03 [INFO]: Fingerprint captured successfully
+2025-12-30 21:53:04 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:53:13 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:53:13 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:53:13 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:53:13 [INFO]: Starting fingerprint capture...
+2025-12-30 21:53:17 [INFO]: Fingerprint captured successfully
+2025-12-30 21:53:18 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:53:18 [INFO]: Starting fingerprint capture...
+2025-12-30 21:53:22 [INFO]: Fingerprint captured successfully
+2025-12-30 21:53:23 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:53:23 [INFO]: Starting fingerprint capture...
+2025-12-30 21:53:28 [INFO]: Fingerprint captured successfully
+2025-12-30 21:53:29 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:53:35 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:53:35 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:53:35 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:53:35 [INFO]: Starting fingerprint capture...
+2025-12-30 21:53:39 [INFO]: Fingerprint captured successfully
+2025-12-30 21:53:40 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:53:40 [INFO]: Starting fingerprint capture...
+2025-12-30 21:53:42 [INFO]: Fingerprint captured successfully
+2025-12-30 21:53:44 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:53:44 [INFO]: Starting fingerprint capture...
+2025-12-30 21:53:49 [INFO]: Fingerprint captured successfully
+2025-12-30 21:53:50 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:55:01 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:55:01 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:55:01 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:55:01 [INFO]: Starting fingerprint capture...
+2025-12-30 21:55:05 [INFO]: Fingerprint captured successfully
+2025-12-30 21:55:06 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:55:06 [INFO]: Starting fingerprint capture...
+2025-12-30 21:55:08 [INFO]: Fingerprint captured successfully
+2025-12-30 21:55:09 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:55:09 [INFO]: Starting fingerprint capture...
+2025-12-30 21:55:14 [INFO]: Fingerprint captured successfully
+2025-12-30 21:55:15 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:55:21 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:55:21 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:55:21 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:55:21 [INFO]: Starting fingerprint capture...
+2025-12-30 21:55:26 [INFO]: Fingerprint captured successfully
+2025-12-30 21:55:27 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:55:27 [INFO]: Starting fingerprint capture...
+2025-12-30 21:55:31 [INFO]: Fingerprint captured successfully
+2025-12-30 21:55:32 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:55:32 [INFO]: Starting fingerprint capture...
+2025-12-30 21:55:35 [INFO]: Fingerprint captured successfully
+2025-12-30 21:55:36 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:56:18 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:56:18 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:56:18 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:56:18 [INFO]: Starting fingerprint capture...
+2025-12-30 21:56:23 [INFO]: Fingerprint captured successfully
+2025-12-30 21:56:24 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:56:24 [INFO]: Starting fingerprint capture...
+2025-12-30 21:56:29 [INFO]: Fingerprint captured successfully
+2025-12-30 21:56:30 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:56:30 [INFO]: Starting fingerprint capture...
+2025-12-30 21:56:34 [INFO]: Fingerprint captured successfully
+2025-12-30 21:56:35 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 21:56:37 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:56:37 [INFO]: Starting fingerprint enrollment for employee: CT1012
+2025-12-30 21:56:37 [INFO]: Capturing enrollment sample 1 of 3
+2025-12-30 21:56:37 [INFO]: Starting fingerprint capture...
+2025-12-30 21:56:41 [INFO]: Fingerprint captured successfully
+2025-12-30 21:56:42 [INFO]: Capturing enrollment sample 2 of 3
+2025-12-30 21:56:42 [INFO]: Starting fingerprint capture...
+2025-12-30 21:56:47 [INFO]: Fingerprint captured successfully
+2025-12-30 21:56:48 [INFO]: Capturing enrollment sample 3 of 3
+2025-12-30 21:56:48 [INFO]: Starting fingerprint capture...
+2025-12-30 21:56:50 [INFO]: Fingerprint captured successfully
+2025-12-30 21:56:51 [INFO]: Enrollment successful for employee: CT1012
+2025-12-30 22:19:57 [INFO]: Native ZKTeco scanner module loaded
+2025-12-30 22:19:57 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-30 22:19:57 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-30 22:19:57 [WARN]: ⚠ Scanner in compatibility mode
+2025-12-30 22:19:58 [INFO]: Database connected
+2025-12-30 22:19:58 [INFO]: Default data initialization complete
+2025-12-30 22:19:58 [INFO]: Starting server on port 5000...
+2025-12-30 22:19:58 [INFO]: About to call httpServer.listen on port 5000
+2025-12-30 22:19:58 [INFO]: httpServer.listen callback invoked!
+2025-12-30 22:19:58 [INFO]: Server listening on http://localhost:5000
+2025-12-30 22:53:23 [INFO]: SIGINT received, shutting down gracefully
+2025-12-30 23:02:06 [ERROR]: Failed to load ZKTeco SDK wrapper:
+2025-12-30 23:02:06 [WARN]: ⚠ ZKTeco SDK not available
+2025-12-30 23:02:06 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-30 23:02:06 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-30 23:02:06 [INFO]: Database connected
+2025-12-30 23:02:06 [INFO]: Default data initialization complete
+2025-12-30 23:02:06 [INFO]: Starting server on port 5000...
+2025-12-30 23:02:06 [INFO]: About to call httpServer.listen on port 5000
+2025-12-30 23:02:06 [INFO]: httpServer.listen callback invoked!
+2025-12-30 23:02:06 [INFO]: Server listening on http://localhost:5000
+2025-12-30 23:13:33 [INFO]: ✓ Using native SDK wrapper (ffi-napi)
+2025-12-30 23:13:33 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-30 23:13:33 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-30 23:13:33 [ERROR]: ❌ SDK initialization failed
+2025-12-30 23:13:33 [ERROR]: CHECK:
+2025-12-30 23:13:33 [ERROR]: - ZKTeco SDK (v10.0) is installed
+2025-12-30 23:13:33 [ERROR]: - libzkfp.dll is in System PATH
+2025-12-30 23:13:33 [INFO]: Database connected
+2025-12-30 23:13:33 [INFO]: Default data initialization complete
+2025-12-30 23:13:33 [INFO]: Starting server on port 5000...
+2025-12-30 23:13:33 [INFO]: About to call httpServer.listen on port 5000
+2025-12-30 23:13:33 [INFO]: httpServer.listen callback invoked!
+2025-12-30 23:13:33 [INFO]: Server listening on http://localhost:5000

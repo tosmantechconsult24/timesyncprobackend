@@ -1,0 +1,286 @@
+2025-12-24 00:34:48 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:115:38)
+2025-12-24 00:34:52 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:115:38)
+2025-12-24 00:35:03 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:115:38)
+2025-12-24 00:35:07 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:115:38)
+2025-12-24 01:40:15 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 01:40:19 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 01:41:00 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:115:38)
+2025-12-24 02:20:50 [ERROR]: ZodError: [
+  {
+    "code": "too_small",
+    "minimum": 1,
+    "type": "string",
+    "inclusive": true,
+    "exact": false,
+    "message": "String must contain at least 1 character(s)",
+    "path": [
+      "name"
+    ]
+  },
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 02:20:54 [ERROR]: ZodError: [
+  {
+    "code": "too_small",
+    "minimum": 1,
+    "type": "string",
+    "inclusive": true,
+    "exact": false,
+    "message": "String must contain at least 1 character(s)",
+    "path": [
+      "name"
+    ]
+  },
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 06:45:10 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 06:45:15 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 06:45:46 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 06:46:07 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "array",
+    "received": "string",
+    "path": [
+      "workingDays"
+    ],
+    "message": "Expected array, received string"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 07:01:11 [ERROR]: ZodError: [
+  {
+    "code": "too_small",
+    "minimum": 1,
+    "type": "string",
+    "inclusive": true,
+    "exact": false,
+    "message": "String must contain at least 1 character(s)",
+    "path": [
+      "name"
+    ]
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\shifts.ts:80:28)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:74:14)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-24 07:42:10 [ERROR]: ❌ Port 5000 is already in use!
+2025-12-24 07:45:38 [ERROR]: ❌ Port 5000 is already in use!
+2025-12-24 08:16:01 [ERROR]: ❌ Port 5000 is already in use!

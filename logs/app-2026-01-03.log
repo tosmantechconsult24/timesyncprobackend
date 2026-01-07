@@ -1,0 +1,46 @@
+2026-01-03 00:29:26 [INFO]: Database connected
+2026-01-03 00:29:26 [INFO]: Default data initialization complete
+2026-01-03 00:29:26 [INFO]: Server running on http://localhost:5000
+2026-01-03 00:29:26 [INFO]: WebSocket server running on ws://localhost:5000
+2026-01-03 00:29:26 [INFO]: Kiosk endpoints available (no auth required):
+2026-01-03 00:29:26 [INFO]:   GET  /api/employees/lookup/:id
+2026-01-03 00:29:26 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2026-01-03 00:29:26 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2026-01-03 00:29:26 [INFO]:   POST /api/attendance/record
+2026-01-03 00:29:26 [INFO]:   GET  /api/attendance/today/:id
+2026-01-03 00:35:38 [INFO]: Manual time entry created for employee C1011
+2026-01-03 00:40:20 [INFO]: Manual time entry created for employee 10023
+2026-01-03 00:41:22 [INFO]: Manual time entry created for employee 10089
+2026-01-03 00:43:42 [INFO]: Manual time entry created for employee 10023
+2026-01-03 00:48:03 [INFO]: Manual time entry created for employee EMP001
+2026-01-03 00:51:30 [INFO]: Manual time entry created for employee CT1012
+2026-01-03 01:45:55 [INFO]: Database connected
+2026-01-03 01:45:55 [INFO]: Default data initialization complete
+2026-01-03 01:45:55 [INFO]: Server running on http://localhost:5000
+2026-01-03 01:45:55 [INFO]: WebSocket server running on ws://localhost:5000
+2026-01-03 01:45:55 [INFO]: Kiosk endpoints available (no auth required):
+2026-01-03 01:45:55 [INFO]:   GET  /api/employees/lookup/:id
+2026-01-03 01:45:55 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2026-01-03 01:45:55 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2026-01-03 01:45:55 [INFO]:   POST /api/attendance/record
+2026-01-03 01:45:55 [INFO]:   GET  /api/attendance/today/:id
+2026-01-03 02:00:44 [INFO]: Database connected
+2026-01-03 02:00:44 [INFO]: Default data initialization complete
+2026-01-03 02:00:44 [INFO]: Server running on http://localhost:5000
+2026-01-03 02:00:44 [INFO]: WebSocket server running on ws://localhost:5000
+2026-01-03 02:00:44 [INFO]: Kiosk endpoints available (no auth required):
+2026-01-03 02:00:44 [INFO]:   GET  /api/employees/lookup/:id
+2026-01-03 02:00:44 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2026-01-03 02:00:44 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2026-01-03 02:00:44 [INFO]:   POST /api/attendance/record
+2026-01-03 02:00:44 [INFO]:   GET  /api/attendance/today/:id
+2026-01-03 02:23:29 [INFO]: Database connected
+2026-01-03 02:23:29 [INFO]: Default data initialization complete
+2026-01-03 02:23:29 [INFO]: Server running on http://localhost:5000
+2026-01-03 02:23:29 [INFO]: WebSocket server running on ws://localhost:5000
+2026-01-03 02:23:29 [INFO]: Kiosk endpoints available (no auth required):
+2026-01-03 02:23:29 [INFO]:   GET  /api/employees/lookup/:id
+2026-01-03 02:23:29 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2026-01-03 02:23:29 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2026-01-03 02:23:29 [INFO]:   POST /api/attendance/record
+2026-01-03 02:23:29 [INFO]:   GET  /api/attendance/today/:id

@@ -1,0 +1,656 @@
+2025-12-28 00:22:55 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 00:22:55 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 00:22:55 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 00:22:55 [INFO]: Database connected
+2025-12-28 00:22:55 [INFO]: Default data initialization complete
+2025-12-28 00:22:55 [INFO]: Starting server on port 5000...
+2025-12-28 00:22:55 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 00:22:55 [INFO]: httpServer.listen callback invoked!
+2025-12-28 00:22:55 [INFO]: Server listening on http://localhost:5000
+2025-12-28 00:26:04 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:04 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:14 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:14 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:19 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:19 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:30 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:30 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:49 [INFO]: SIGINT received, shutting down gracefully
+2025-12-28 00:37:52 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 00:37:52 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 00:37:52 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 00:37:52 [INFO]: Database connected
+2025-12-28 00:37:52 [INFO]: Default data initialization complete
+2025-12-28 00:37:52 [INFO]: Starting server on port 5000...
+2025-12-28 00:37:52 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 00:37:52 [INFO]: httpServer.listen callback invoked!
+2025-12-28 00:37:52 [INFO]: Server listening on http://localhost:5000
+2025-12-28 00:40:43 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 00:40:43 [INFO]: User logged in: admin@company.com
+2025-12-28 00:45:36 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 00:45:36 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 00:45:36 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 00:45:36 [INFO]: Database connected
+2025-12-28 00:45:36 [INFO]: Default data initialization complete
+2025-12-28 00:45:36 [INFO]: Starting server on port 5000...
+2025-12-28 00:45:36 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 00:45:36 [INFO]: httpServer.listen callback invoked!
+2025-12-28 00:45:36 [INFO]: Server listening on http://localhost:5000
+2025-12-28 00:45:42 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 00:45:42 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 00:45:42 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 00:45:42 [INFO]: Database connected
+2025-12-28 00:45:42 [INFO]: Default data initialization complete
+2025-12-28 00:45:42 [INFO]: Starting server on port 5000...
+2025-12-28 00:45:42 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 00:45:42 [INFO]: httpServer.listen callback invoked!
+2025-12-28 00:45:42 [INFO]: Server listening on http://localhost:5000
+2025-12-28 00:46:08 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 00:46:08 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 00:46:08 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 00:46:08 [INFO]: Database connected
+2025-12-28 00:46:08 [INFO]: Default data initialization complete
+2025-12-28 00:46:08 [INFO]: Starting server on port 5000...
+2025-12-28 00:46:08 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 00:46:08 [INFO]: httpServer.listen callback invoked!
+2025-12-28 00:46:08 [INFO]: Server listening on http://localhost:5000
+2025-12-28 00:51:15 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "firstName"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "lastName"
+    ],
+    "message": "Required"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\users.ts:91:27)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:98:5)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-28 01:12:06 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 01:12:06 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 01:12:06 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 01:12:06 [INFO]: Database connected
+2025-12-28 01:12:06 [INFO]: Default data initialization complete
+2025-12-28 01:12:06 [INFO]: Starting server on port 5000...
+2025-12-28 01:12:06 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 01:12:06 [INFO]: httpServer.listen callback invoked!
+2025-12-28 01:12:06 [INFO]: Server listening on http://localhost:5000
+2025-12-28 01:16:01 [INFO]: User created: tosin@company.com with role admin
+2025-12-28 01:39:19 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 01:39:19 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 01:39:19 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 01:39:19 [INFO]: Database connected
+2025-12-28 01:39:19 [INFO]: Default data initialization complete
+2025-12-28 01:39:19 [INFO]: Starting server on port 5000...
+2025-12-28 01:39:19 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 01:39:19 [INFO]: httpServer.listen callback invoked!
+2025-12-28 01:39:19 [INFO]: Server listening on http://localhost:5000
+2025-12-28 01:45:10 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 01:45:10 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 01:45:10 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 01:45:10 [INFO]: Database connected
+2025-12-28 01:45:11 [INFO]: Default data initialization complete
+2025-12-28 01:45:11 [INFO]: Starting server on port 5000...
+2025-12-28 01:45:11 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 01:45:11 [INFO]: httpServer.listen callback invoked!
+2025-12-28 01:45:11 [INFO]: Server listening on http://localhost:5000
+2025-12-28 01:45:12 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 01:45:12 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 01:45:12 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 01:45:12 [INFO]: Database connected
+2025-12-28 01:45:12 [INFO]: Default data initialization complete
+2025-12-28 01:45:12 [INFO]: Starting server on port 5000...
+2025-12-28 01:45:12 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 01:45:12 [INFO]: httpServer.listen callback invoked!
+2025-12-28 01:45:12 [INFO]: Server listening on http://localhost:5000
+2025-12-28 01:46:18 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 01:46:18 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 01:46:18 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 01:46:18 [INFO]: Database connected
+2025-12-28 01:46:18 [INFO]: Default data initialization complete
+2025-12-28 01:46:18 [INFO]: Starting server on port 5000...
+2025-12-28 01:46:18 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 01:46:18 [INFO]: httpServer.listen callback invoked!
+2025-12-28 01:46:18 [INFO]: Server listening on http://localhost:5000
+2025-12-28 02:11:50 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 02:11:50 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 02:11:50 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 02:11:50 [INFO]: Database connected
+2025-12-28 02:11:50 [INFO]: Default admin user created
+2025-12-28 02:11:50 [INFO]: Default department created
+2025-12-28 02:11:50 [INFO]: Default shift created
+2025-12-28 02:11:50 [INFO]: Default data initialization complete
+2025-12-28 02:11:50 [INFO]: Starting server on port 5000...
+2025-12-28 02:11:50 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 02:11:50 [INFO]: httpServer.listen callback invoked!
+2025-12-28 02:11:50 [INFO]: Server listening on http://localhost:5000
+2025-12-28 02:14:06 [INFO]: Login attempt for email: tosin@company.com
+2025-12-28 02:14:06 [WARN]: Login failed: user not found with email tosin@company.com
+2025-12-28 02:14:34 [INFO]: Login attempt for email: tosin@company.com
+2025-12-28 02:14:34 [WARN]: Login failed: user not found with email tosin@company.com
+2025-12-28 02:14:49 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 02:14:49 [INFO]: User logged in: admin@company.com
+2025-12-28 02:19:24 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 02:19:24 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 02:19:24 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 02:19:24 [INFO]: Database connected
+2025-12-28 02:19:24 [INFO]: Default data initialization complete
+2025-12-28 02:19:24 [INFO]: Starting server on port 5000...
+2025-12-28 02:19:24 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 02:19:24 [INFO]: httpServer.listen callback invoked!
+2025-12-28 02:19:24 [INFO]: Server listening on http://localhost:5000
+2025-12-28 02:21:31 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 02:21:32 [INFO]: User logged in: admin@company.com
+2025-12-28 02:21:47 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 02:21:48 [INFO]: User logged in: admin@company.com
+2025-12-28 02:21:59 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 02:21:59 [INFO]: User logged in: admin@company.com
+2025-12-28 02:22:06 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 02:22:06 [INFO]: User logged in: admin@company.com
+2025-12-28 02:22:17 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 02:22:18 [INFO]: User logged in: admin@company.com
+2025-12-28 02:22:25 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 02:22:25 [INFO]: User logged in: admin@company.com
+2025-12-28 02:22:33 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 02:22:33 [INFO]: User logged in: admin@company.com
+2025-12-28 02:22:42 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 02:22:42 [INFO]: User logged in: admin@company.com
+2025-12-28 02:24:01 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 02:24:01 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 02:24:01 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 02:24:01 [INFO]: Database connected
+2025-12-28 02:24:01 [INFO]: Default data initialization complete
+2025-12-28 02:24:01 [INFO]: Starting server on port 5000...
+2025-12-28 02:24:01 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 02:24:01 [INFO]: httpServer.listen callback invoked!
+2025-12-28 02:24:01 [INFO]: Server listening on http://localhost:5000
+2025-12-28 02:24:41 [INFO]: SIGINT received, shutting down gracefully
+2025-12-28 02:24:41 [INFO]: Shutting down ZKTeco service...
+2025-12-28 02:24:41 [INFO]: All terminal connections stopped
+2025-12-28 02:24:58 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 02:24:58 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 02:24:58 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 02:24:58 [INFO]: Database connected
+2025-12-28 02:24:58 [INFO]: Default data initialization complete
+2025-12-28 02:24:58 [INFO]: Starting server on port 5000...
+2025-12-28 02:24:58 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 02:24:58 [INFO]: httpServer.listen callback invoked!
+2025-12-28 02:24:58 [INFO]: Server listening on http://localhost:5000
+2025-12-28 02:25:11 [INFO]: SIGINT received, shutting down gracefully
+2025-12-28 02:25:11 [INFO]: Shutting down ZKTeco service...
+2025-12-28 02:25:11 [INFO]: All terminal connections stopped
+2025-12-28 02:25:40 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 02:25:40 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 02:25:40 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 02:25:40 [INFO]: Database connected
+2025-12-28 02:25:40 [INFO]: Default data initialization complete
+2025-12-28 02:25:40 [INFO]: Starting server on port 5000...
+2025-12-28 02:25:40 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 02:25:40 [INFO]: httpServer.listen callback invoked!
+2025-12-28 02:25:40 [INFO]: Server listening on http://localhost:5000
+2025-12-28 02:25:55 [INFO]: SIGINT received, shutting down gracefully
+2025-12-28 02:25:55 [INFO]: Shutting down ZKTeco service...
+2025-12-28 02:25:55 [INFO]: All terminal connections stopped
+2025-12-28 02:26:28 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 02:26:28 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 02:26:28 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 02:26:28 [INFO]: Database connected
+2025-12-28 02:26:28 [INFO]: Default data initialization complete
+2025-12-28 02:26:28 [INFO]: Starting server on port 5000...
+2025-12-28 02:26:28 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 02:26:28 [INFO]: httpServer.listen callback invoked!
+2025-12-28 02:26:28 [INFO]: Server listening on http://localhost:5000
+2025-12-28 02:31:40 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 02:31:40 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 02:31:40 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 02:31:40 [INFO]: Database connected
+2025-12-28 02:31:41 [INFO]: Default data initialization complete
+2025-12-28 02:31:41 [INFO]: Starting server on port 5000...
+2025-12-28 02:31:41 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 02:31:41 [INFO]: httpServer.listen callback invoked!
+2025-12-28 02:31:41 [INFO]: Server listening on http://localhost:5000
+2025-12-28 02:38:09 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 02:38:09 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 02:38:09 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 02:38:09 [INFO]: Database connected
+2025-12-28 02:38:09 [INFO]: Default data initialization complete
+2025-12-28 02:40:03 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 02:40:03 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 02:40:03 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 02:40:03 [INFO]: Database connected
+2025-12-28 02:40:03 [INFO]: Default data initialization complete
+2025-12-28 02:40:03 [INFO]: Starting server on port 5000...
+2025-12-28 02:40:03 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 02:40:03 [INFO]: httpServer.listen callback invoked!
+2025-12-28 02:40:03 [INFO]: Server listening on http://localhost:5000
+2025-12-28 02:48:55 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 02:48:55 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 02:48:55 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 02:48:55 [INFO]: Database connected
+2025-12-28 02:48:55 [INFO]: Default data initialization complete
+2025-12-28 02:48:55 [INFO]: Starting server on port 5000...
+2025-12-28 02:48:55 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 02:48:55 [INFO]: httpServer.listen callback invoked!
+2025-12-28 02:48:55 [INFO]: Server listening on http://localhost:5000
+2025-12-28 02:49:07 [INFO]: SIGINT received, shutting down gracefully
+2025-12-28 02:49:07 [INFO]: Shutting down ZKTeco service...
+2025-12-28 02:49:07 [INFO]: All terminal connections stopped
+2025-12-28 02:52:35 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 02:52:35 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 02:52:35 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 02:52:35 [INFO]: Database connected
+2025-12-28 02:52:35 [INFO]: Default data initialization complete
+2025-12-28 02:52:35 [INFO]: Starting server on port 5000...
+2025-12-28 02:52:35 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 02:52:35 [INFO]: httpServer.listen callback invoked!
+2025-12-28 02:52:35 [INFO]: Server listening on http://localhost:5000
+2025-12-28 02:52:48 [INFO]: SIGINT received, shutting down gracefully
+2025-12-28 02:52:48 [INFO]: Shutting down ZKTeco service...
+2025-12-28 02:52:48 [INFO]: All terminal connections stopped
+2025-12-28 02:53:06 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 02:53:06 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 02:53:06 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 02:53:06 [INFO]: Database connected
+2025-12-28 02:53:06 [INFO]: Default data initialization complete
+2025-12-28 02:53:06 [INFO]: Starting server on port 5000...
+2025-12-28 02:53:06 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 02:53:06 [INFO]: httpServer.listen callback invoked!
+2025-12-28 02:53:06 [INFO]: Server listening on http://localhost:5000
+2025-12-28 03:14:33 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 03:14:33 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 03:14:33 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 03:14:33 [INFO]: Database connected
+2025-12-28 03:14:33 [INFO]: Default data initialization complete
+2025-12-28 03:15:22 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 03:15:22 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 03:15:22 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 03:15:22 [INFO]: Database connected
+2025-12-28 03:15:22 [INFO]: Default data initialization complete
+2025-12-28 03:15:22 [INFO]: Starting server on port 5000...
+2025-12-28 03:15:22 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 03:15:22 [INFO]: httpServer.listen callback invoked!
+2025-12-28 03:15:22 [INFO]: Server listening on http://localhost:5000
+2025-12-28 03:15:48 [INFO]: SIGINT received, shutting down gracefully
+2025-12-28 03:15:48 [INFO]: Shutting down ZKTeco service...
+2025-12-28 03:15:48 [INFO]: All terminal connections stopped
+2025-12-28 03:16:35 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 03:16:35 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 03:16:35 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 03:16:35 [INFO]: Database connected
+2025-12-28 03:16:36 [INFO]: Default data initialization complete
+2025-12-28 03:16:36 [INFO]: Starting server on port 5000...
+2025-12-28 03:16:36 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 03:16:36 [INFO]: httpServer.listen callback invoked!
+2025-12-28 03:16:36 [INFO]: Server listening on http://localhost:5000
+2025-12-28 03:29:41 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 03:29:41 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 03:29:41 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 03:29:41 [INFO]: Database connected
+2025-12-28 03:29:41 [INFO]: Default data initialization complete
+2025-12-28 03:29:41 [INFO]: Starting server on port 5000...
+2025-12-28 03:29:41 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 03:29:41 [INFO]: httpServer.listen callback invoked!
+2025-12-28 03:29:41 [INFO]: Server listening on http://localhost:5000
+2025-12-28 03:31:11 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 03:31:12 [INFO]: User logged in: admin@company.com
+2025-12-28 03:39:30 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 03:39:30 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 03:39:30 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 03:39:30 [INFO]: Database connected
+2025-12-28 03:39:30 [INFO]: Default data initialization complete
+2025-12-28 03:39:30 [INFO]: Starting server on port 5000...
+2025-12-28 03:39:30 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 03:39:30 [INFO]: httpServer.listen callback invoked!
+2025-12-28 03:39:30 [INFO]: Server listening on http://localhost:5000
+2025-12-28 03:45:00 [INFO]: Initializing USB fingerprint scanner...
+2025-12-28 03:45:00 [INFO]: USB fingerprint scanner initialized successfully
+2025-12-28 03:45:00 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-28 03:45:00 [INFO]: Database connected
+2025-12-28 03:45:01 [INFO]: Default data initialization complete
+2025-12-28 03:45:01 [INFO]: Starting server on port 5000...
+2025-12-28 03:45:01 [INFO]: About to call httpServer.listen on port 5000
+2025-12-28 03:45:01 [INFO]: httpServer.listen callback invoked!
+2025-12-28 03:45:01 [INFO]: Server listening on http://localhost:5000
+2025-12-28 03:45:42 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 03:45:42 [INFO]: User logged in: admin@company.com
+2025-12-28 03:48:28 [INFO]: Login attempt for email: admin@company.com
+2025-12-28 03:48:28 [INFO]: User logged in: admin@company.com
+2025-12-28 04:05:30 [INFO]: User created: tosin@tosman.com with role admin

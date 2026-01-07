@@ -1,0 +1,284 @@
+2025-12-31 01:29:55 [INFO]: ✓ Using native SDK wrapper (ffi-napi)
+2025-12-31 01:29:55 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-31 01:29:55 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-31 01:29:55 [ERROR]: ❌ SDK initialization failed
+2025-12-31 01:29:55 [ERROR]: CHECK:
+2025-12-31 01:29:55 [ERROR]: - ZKTeco SDK (v10.0) is installed
+2025-12-31 01:29:55 [ERROR]: - libzkfp.dll is in System PATH
+2025-12-31 01:29:55 [INFO]: Database connected
+2025-12-31 01:29:56 [INFO]: Default data initialization complete
+2025-12-31 01:29:56 [INFO]: Starting server on port 5000...
+2025-12-31 01:29:56 [INFO]: About to call httpServer.listen on port 5000
+2025-12-31 01:29:56 [INFO]: httpServer.listen callback invoked!
+2025-12-31 01:29:56 [INFO]: Server listening on http://localhost:5000
+2025-12-31 02:52:33 [INFO]: ✓ Using native SDK wrapper (ffi-napi)
+2025-12-31 02:52:33 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-31 02:52:33 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-31 02:52:33 [ERROR]: ❌ SDK initialization failed
+2025-12-31 02:52:33 [ERROR]: CHECK:
+2025-12-31 02:52:33 [ERROR]: - ZKTeco SDK (v10.0) is installed
+2025-12-31 02:52:33 [ERROR]: - libzkfp.dll is in System PATH
+2025-12-31 02:52:33 [INFO]: Database connected
+2025-12-31 02:52:33 [INFO]: Default data initialization complete
+2025-12-31 02:52:33 [INFO]: Starting server on port 5000...
+2025-12-31 02:52:33 [INFO]: About to call httpServer.listen on port 5000
+2025-12-31 02:52:33 [INFO]: httpServer.listen callback invoked!
+2025-12-31 02:52:33 [INFO]: Server listening on http://localhost:5000
+2025-12-31 02:58:03 [INFO]: ✓ Using native SDK wrapper (ffi-napi)
+2025-12-31 02:58:03 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-31 02:58:03 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-31 02:58:03 [ERROR]: ❌ SDK initialization failed
+2025-12-31 02:58:03 [ERROR]: CHECK:
+2025-12-31 02:58:03 [ERROR]: - ZKTeco SDK (v10.0) is installed
+2025-12-31 02:58:03 [ERROR]: - libzkfp.dll is in System PATH
+2025-12-31 02:58:03 [INFO]: Database connected
+2025-12-31 02:58:03 [INFO]: Default data initialization complete
+2025-12-31 02:58:03 [INFO]: Starting server on port 5000...
+2025-12-31 02:58:03 [INFO]: About to call httpServer.listen on port 5000
+2025-12-31 02:58:03 [INFO]: httpServer.listen callback invoked!
+2025-12-31 02:58:03 [INFO]: Server listening on http://localhost:5000
+2025-12-31 03:11:44 [INFO]: ✓ Using native SDK wrapper (ffi-napi)
+2025-12-31 03:11:44 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-31 03:11:44 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-31 03:11:44 [ERROR]: ❌ SDK initialization failed
+2025-12-31 03:11:44 [ERROR]: CHECK:
+2025-12-31 03:11:44 [ERROR]: - ZKTeco SDK (v10.0) is installed
+2025-12-31 03:11:44 [ERROR]: - libzkfp.dll is in System PATH
+2025-12-31 03:11:44 [INFO]: Database connected
+2025-12-31 03:11:44 [INFO]: Default data initialization complete
+2025-12-31 03:11:44 [INFO]: Starting server on port 5000...
+2025-12-31 03:11:44 [INFO]: About to call httpServer.listen on port 5000
+2025-12-31 03:11:44 [INFO]: httpServer.listen callback invoked!
+2025-12-31 03:11:44 [INFO]: Server listening on http://localhost:5000
+2025-12-31 03:29:40 [INFO]: ✓ Using native SDK wrapper (ffi-napi)
+2025-12-31 03:29:40 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-31 03:29:40 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-31 03:29:40 [ERROR]: ❌ SDK initialization failed
+2025-12-31 03:29:40 [ERROR]: CHECK:
+2025-12-31 03:29:40 [ERROR]: - ZKTeco SDK (v10.0) is installed
+2025-12-31 03:29:40 [ERROR]: - libzkfp.dll is in System PATH
+2025-12-31 03:29:40 [INFO]: Database connected
+2025-12-31 03:29:40 [INFO]: Default data initialization complete
+2025-12-31 03:29:40 [INFO]: Starting server on port 5000...
+2025-12-31 03:29:40 [INFO]: About to call httpServer.listen on port 5000
+2025-12-31 03:29:40 [INFO]: httpServer.listen callback invoked!
+2025-12-31 03:29:40 [INFO]: Server listening on http://localhost:5000
+2025-12-31 03:41:58 [INFO]: SIGINT received, shutting down gracefully
+2025-12-31 03:41:58 [INFO]: Shutting down ZKTeco service...
+2025-12-31 03:41:58 [INFO]: All terminal connections stopped
+2025-12-31 04:02:28 [INFO]: ✓ Using native SDK wrapper (ffi-napi)
+2025-12-31 04:02:28 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-31 04:02:28 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-31 04:02:28 [ERROR]: ❌ SDK initialization failed
+2025-12-31 04:02:28 [ERROR]: CHECK:
+2025-12-31 04:02:28 [ERROR]: - ZKTeco SDK (v10.0) is installed
+2025-12-31 04:02:28 [ERROR]: - libzkfp.dll is in System PATH
+2025-12-31 04:02:28 [INFO]: Database connected
+2025-12-31 04:02:28 [INFO]: Default data initialization complete
+2025-12-31 04:02:28 [INFO]: Starting server on port 5000...
+2025-12-31 04:02:28 [INFO]: About to call httpServer.listen on port 5000
+2025-12-31 04:02:28 [INFO]: httpServer.listen callback invoked!
+2025-12-31 04:02:28 [INFO]: Server listening on http://localhost:5000
+2025-12-31 10:26:28 [INFO]: ✓ Using native SDK wrapper (ffi-napi)
+2025-12-31 10:26:28 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-31 10:26:28 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-31 10:26:28 [ERROR]: ❌ SDK initialization failed
+2025-12-31 10:26:28 [ERROR]: CHECK:
+2025-12-31 10:26:28 [ERROR]: - ZKTeco SDK (v10.0) is installed
+2025-12-31 10:26:28 [ERROR]: - libzkfp.dll is in System PATH
+2025-12-31 10:26:28 [INFO]: Database connected
+2025-12-31 10:26:28 [INFO]: Default data initialization complete
+2025-12-31 10:26:28 [INFO]: Starting server on port 5000...
+2025-12-31 10:26:28 [INFO]: About to call httpServer.listen on port 5000
+2025-12-31 10:26:28 [INFO]: httpServer.listen callback invoked!
+2025-12-31 10:26:28 [INFO]: Server listening on http://localhost:5000
+2025-12-31 10:50:17 [INFO]: ✓ Using native SDK wrapper (ffi-napi)
+2025-12-31 10:50:17 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-31 10:50:17 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-31 10:50:17 [ERROR]: ❌ SDK initialization failed
+2025-12-31 10:50:17 [ERROR]: CHECK:
+2025-12-31 10:50:17 [ERROR]: - ZKTeco SDK (v10.0) is installed
+2025-12-31 10:50:17 [ERROR]: - libzkfp.dll is in System PATH
+2025-12-31 10:50:17 [INFO]: Database connected
+2025-12-31 10:50:17 [INFO]: Default data initialization complete
+2025-12-31 10:50:17 [INFO]: Starting server on port 5000...
+2025-12-31 10:50:17 [INFO]: About to call httpServer.listen on port 5000
+2025-12-31 10:50:17 [INFO]: httpServer.listen callback invoked!
+2025-12-31 10:50:17 [INFO]: Server listening on http://localhost:5000
+2025-12-31 11:12:32 [INFO]: ✓ Using native SDK wrapper (ffi-napi)
+2025-12-31 11:12:32 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-31 11:12:32 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-31 11:12:32 [ERROR]: ❌ SDK initialization failed
+2025-12-31 11:12:32 [ERROR]: CHECK:
+2025-12-31 11:12:32 [ERROR]: - ZKTeco SDK (v10.0) is installed
+2025-12-31 11:12:32 [ERROR]: - libzkfp.dll is in System PATH
+2025-12-31 11:12:32 [INFO]: Database connected
+2025-12-31 11:12:32 [INFO]: Default data initialization complete
+2025-12-31 11:12:32 [INFO]: Starting server on port 5000...
+2025-12-31 11:12:32 [INFO]: About to call httpServer.listen on port 5000
+2025-12-31 11:12:33 [INFO]: httpServer.listen callback invoked!
+2025-12-31 11:12:33 [INFO]: Server listening on http://localhost:5000
+2025-12-31 11:13:31 [INFO]: Login attempt for email: admin@company.com
+2025-12-31 11:13:32 [INFO]: User logged in: admin@company.com
+2025-12-31 11:30:00 [INFO]: ✓ Using native SDK wrapper (ffi-napi)
+2025-12-31 11:30:00 [INFO]: USB Fingerprint Scanner initialized (enhanced mode)
+2025-12-31 11:30:00 [INFO]: Serving frontend from: C:\time-attendance-system\frontend\dist
+2025-12-31 11:30:00 [ERROR]: ❌ SDK initialization failed
+2025-12-31 11:30:00 [ERROR]: CHECK:
+2025-12-31 11:30:00 [ERROR]: - ZKTeco SDK (v10.0) is installed
+2025-12-31 11:30:00 [ERROR]: - libzkfp.dll is in System PATH
+2025-12-31 11:30:00 [INFO]: Database connected
+2025-12-31 11:30:00 [INFO]: Default data initialization complete
+2025-12-31 11:30:00 [INFO]: Starting server on port 5000...
+2025-12-31 11:30:00 [INFO]: About to call httpServer.listen on port 5000
+2025-12-31 11:30:00 [INFO]: httpServer.listen callback invoked!
+2025-12-31 11:30:00 [INFO]: Server listening on http://localhost:5000
+2025-12-31 12:50:55 [INFO]: Database connected
+2025-12-31 12:50:55 [INFO]: Default data initialization complete
+2025-12-31 12:50:55 [INFO]: Server running on http://localhost:5000
+2025-12-31 12:50:55 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 12:50:55 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 12:50:55 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 12:50:55 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 12:50:55 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 12:50:55 [INFO]:   POST /api/attendance/record
+2025-12-31 12:50:55 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 13:17:20 [INFO]: Database connected
+2025-12-31 13:17:20 [INFO]: Default data initialization complete
+2025-12-31 13:17:20 [INFO]: Server running on http://localhost:5000
+2025-12-31 13:17:20 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 13:17:20 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 13:17:20 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 13:17:20 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 13:17:20 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 13:17:20 [INFO]:   POST /api/attendance/record
+2025-12-31 13:17:20 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 13:24:44 [INFO]: Database connected
+2025-12-31 13:24:44 [INFO]: Default data initialization complete
+2025-12-31 13:24:44 [INFO]: Server running on http://localhost:5000
+2025-12-31 13:24:44 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 13:24:44 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 13:24:44 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 13:24:44 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 13:24:44 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 13:24:44 [INFO]:   POST /api/attendance/record
+2025-12-31 13:24:44 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 13:36:10 [INFO]: Database connected
+2025-12-31 13:36:10 [INFO]: Default data initialization complete
+2025-12-31 13:36:10 [INFO]: Server running on http://localhost:5000
+2025-12-31 13:36:10 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 13:36:10 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 13:36:10 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 13:36:10 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 13:36:10 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 13:36:10 [INFO]:   POST /api/attendance/record
+2025-12-31 13:36:10 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 13:38:19 [INFO]: Fingerprint enrolled for employee EMP001
+2025-12-31 13:39:07 [INFO]: Fingerprint enrolled for employee CT1012
+2025-12-31 13:39:49 [INFO]: Attendance recorded: CT1012 - CLOCK_IN at Wed Dec 31 2025 13:39:49 GMT+0100 (West Africa Standard Time)
+2025-12-31 13:40:29 [INFO]: Attendance recorded: EMP001 - CLOCK_IN at Wed Dec 31 2025 13:40:29 GMT+0100 (West Africa Standard Time)
+2025-12-31 13:42:10 [INFO]: Fingerprint enrolled for employee 10089
+2025-12-31 13:42:44 [INFO]: Attendance recorded: 10089 - CLOCK_IN at Wed Dec 31 2025 13:42:44 GMT+0100 (West Africa Standard Time)
+2025-12-31 13:49:52 [INFO]: Database connected
+2025-12-31 13:49:52 [INFO]: Default data initialization complete
+2025-12-31 13:49:52 [INFO]: Server running on http://localhost:5000
+2025-12-31 13:49:52 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 13:49:52 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 13:49:52 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 13:49:52 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 13:49:52 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 13:49:52 [INFO]:   POST /api/attendance/record
+2025-12-31 13:49:52 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 13:52:16 [INFO]: Database connected
+2025-12-31 13:52:16 [INFO]: Default data initialization complete
+2025-12-31 13:52:16 [INFO]: Server running on http://localhost:5000
+2025-12-31 13:52:16 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 13:52:16 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 13:52:16 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 13:52:16 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 13:52:16 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 13:52:16 [INFO]:   POST /api/attendance/record
+2025-12-31 13:52:16 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 13:54:16 [INFO]: Attendance recorded: 10089 - CLOCK_IN at Wed Dec 31 2025 13:54:16 GMT+0100 (West Africa Standard Time)
+2025-12-31 13:57:31 [INFO]: Database connected
+2025-12-31 13:57:31 [INFO]: Default data initialization complete
+2025-12-31 13:57:31 [INFO]: Server running on http://localhost:5000
+2025-12-31 13:57:31 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 13:57:31 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 13:57:31 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 13:57:31 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 13:57:31 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 13:57:31 [INFO]:   POST /api/attendance/record
+2025-12-31 13:57:31 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 13:59:10 [INFO]: Database connected
+2025-12-31 13:59:10 [INFO]: Default data initialization complete
+2025-12-31 13:59:45 [INFO]: Database connected
+2025-12-31 13:59:45 [INFO]: Default data initialization complete
+2025-12-31 13:59:45 [INFO]: Server running on http://localhost:5000
+2025-12-31 13:59:45 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 13:59:45 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 13:59:45 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 13:59:45 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 13:59:45 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 13:59:45 [INFO]:   POST /api/attendance/record
+2025-12-31 13:59:45 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 14:02:49 [INFO]: Database connected
+2025-12-31 14:02:49 [INFO]: Default data initialization complete
+2025-12-31 14:02:49 [INFO]: Server running on http://localhost:5000
+2025-12-31 14:02:49 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 14:02:49 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 14:02:49 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 14:02:49 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 14:02:49 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 14:02:49 [INFO]:   POST /api/attendance/record
+2025-12-31 14:02:49 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 14:06:26 [INFO]: Database connected
+2025-12-31 14:06:26 [INFO]: Default data initialization complete
+2025-12-31 14:06:26 [INFO]: Server running on http://localhost:5000
+2025-12-31 14:06:26 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 14:06:26 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 14:06:26 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 14:06:26 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 14:06:26 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 14:06:26 [INFO]:   POST /api/attendance/record
+2025-12-31 14:06:26 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 14:06:30 [INFO]: Database connected
+2025-12-31 14:06:30 [INFO]: Default data initialization complete
+2025-12-31 14:06:30 [INFO]: Server running on http://localhost:5000
+2025-12-31 14:06:30 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 14:06:30 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 14:06:30 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 14:06:30 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 14:06:30 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 14:06:30 [INFO]:   POST /api/attendance/record
+2025-12-31 14:06:30 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 14:06:32 [INFO]: Database connected
+2025-12-31 14:06:32 [INFO]: Default data initialization complete
+2025-12-31 14:06:32 [INFO]: Server running on http://localhost:5000
+2025-12-31 14:06:32 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 14:06:32 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 14:06:32 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 14:06:32 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 14:06:32 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 14:06:32 [INFO]:   POST /api/attendance/record
+2025-12-31 14:06:32 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 14:07:49 [INFO]: Database connected
+2025-12-31 14:07:49 [INFO]: Default data initialization complete
+2025-12-31 14:07:49 [INFO]: Server running on http://localhost:5000
+2025-12-31 14:07:49 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 14:07:49 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 14:07:49 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 14:07:49 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 14:07:49 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 14:07:49 [INFO]:   POST /api/attendance/record
+2025-12-31 14:07:49 [INFO]:   GET  /api/attendance/today/:id
+2025-12-31 14:09:48 [INFO]: Database connected
+2025-12-31 14:09:48 [INFO]: Default data initialization complete
+2025-12-31 14:09:48 [INFO]: Server running on http://localhost:5000
+2025-12-31 14:09:48 [INFO]: WebSocket server running on ws://localhost:5000
+2025-12-31 14:09:48 [INFO]: Kiosk endpoints available (no auth required):
+2025-12-31 14:09:48 [INFO]:   GET  /api/employees/lookup/:id
+2025-12-31 14:09:48 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2025-12-31 14:09:48 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2025-12-31 14:09:48 [INFO]:   POST /api/attendance/record
+2025-12-31 14:09:48 [INFO]:   GET  /api/attendance/today/:id

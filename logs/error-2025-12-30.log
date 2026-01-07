@@ -1,0 +1,5 @@
+2025-12-30 23:02:06 [ERROR]: Failed to load ZKTeco SDK wrapper:
+2025-12-30 23:13:33 [ERROR]: ❌ SDK initialization failed
+2025-12-30 23:13:33 [ERROR]: CHECK:
+2025-12-30 23:13:33 [ERROR]: - ZKTeco SDK (v10.0) is installed
+2025-12-30 23:13:33 [ERROR]: - libzkfp.dll is in System PATH

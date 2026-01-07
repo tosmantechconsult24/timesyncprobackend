@@ -1,0 +1,360 @@
+2025-12-28 00:26:04 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:04 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:14 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:14 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:19 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:19 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:30 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:26:30 [ERROR]: PrismaClientValidationError: 
+Invalid `prisma.department.findMany()` invocation in
+C:\time-attendance-system\backend\src\routes\departments.ts:20:47
+
+  17 
+  18 // Get all departments
+  19 router.get('/', requirePermission('departments:read'), asyncHandler(async (req: AuthRequest, res: Response) => {
+→ 20   const departments = await prisma.department.findMany({
+         orderBy: {
+           name: "asc"
+         },
+         include: {
+           _count: {
+             select: {
+               employees: {
+                 where: {
+                   status: "active"
+                 }
+               }
+             }
+           },
+           CreatedBy: {
+           ~~~~~~~~~
+             select: {
+               id: true,
+               firstName: true,
+               lastName: true,
+               email: true
+             }
+           },
+       ?   employees?: true
+         }
+       })
+
+Unknown field `CreatedBy` for include statement on model `Department`. Available options are marked with ?.
+    at wn (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at $n.handleRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6958)
+    at $n.handleAndLogRequestError (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6623)
+    at $n.request (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:121:6307)
+    at async l (C:\time-attendance-system\backend\node_modules\@prisma\client\runtime\library.js:130:9633)
+    at async <anonymous> (C:\time-attendance-system\backend\src\routes\departments.ts:20:23)
+2025-12-28 00:51:15 [ERROR]: ZodError: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "firstName"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "lastName"
+    ],
+    "message": "Required"
+  }
+]
+    at get error (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:45:31)
+    at ZodObject.parse (C:\time-attendance-system\backend\node_modules\zod\v3\types.cjs:120:22)
+    at <anonymous> (C:\time-attendance-system\backend\src\routes\users.ts:91:27)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\errorHandler.ts:73:21)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at <anonymous> (C:\time-attendance-system\backend\src\middleware\auth.ts:98:5)
+    at Layer.handle [as handle_request] (C:\time-attendance-system\backend\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\time-attendance-system\backend\node_modules\express\lib\router\route.js:119:3)
+2025-12-28 02:38:09 [ERROR]: ❌ Port 5000 is already in use!
+2025-12-28 03:14:33 [ERROR]: ❌ Port 5000 is already in use!

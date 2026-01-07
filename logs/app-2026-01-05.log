@@ -1,0 +1,12 @@
+2026-01-05 23:16:56 [INFO]: Database connected
+2026-01-05 23:16:56 [INFO]: Default data initialization complete
+2026-01-05 23:16:56 [INFO]: Server running on http://localhost:5000
+2026-01-05 23:16:56 [INFO]: WebSocket server running on ws://localhost:5000
+2026-01-05 23:16:56 [INFO]: Kiosk endpoints available (no auth required):
+2026-01-05 23:16:56 [INFO]:   GET  /api/employees/lookup/:id
+2026-01-05 23:16:56 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2026-01-05 23:16:56 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2026-01-05 23:16:56 [INFO]:   POST /api/attendance/record
+2026-01-05 23:16:56 [INFO]:   GET  /api/attendance/today/:id
+2026-01-05 23:18:26 [INFO]: Login attempt for email: admin@company.com
+2026-01-05 23:18:27 [INFO]: User logged in: admin@company.com
