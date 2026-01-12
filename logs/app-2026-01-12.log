@@ -1,0 +1,373 @@
+2026-01-12 01:39:27 [INFO]: Database connected
+2026-01-12 01:39:28 [INFO]: Default data initialization complete
+2026-01-12 01:39:28 [INFO]: Server running on http://localhost:5001
+2026-01-12 01:39:28 [INFO]: WebSocket server running on ws://localhost:5001
+2026-01-12 01:39:28 [INFO]: Kiosk endpoints available (no auth required):
+2026-01-12 01:39:28 [INFO]:   GET  /api/employees/lookup/:id
+2026-01-12 01:39:28 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2026-01-12 01:39:28 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2026-01-12 01:39:28 [INFO]:   POST /api/attendance/record
+2026-01-12 01:39:28 [INFO]:   GET  /api/attendance/today/:id
+2026-01-12 01:52:51 [INFO]: Database connected
+2026-01-12 01:52:51 [INFO]: Default data initialization complete
+2026-01-12 01:52:51 [INFO]: Server running on http://localhost:5001
+2026-01-12 01:52:51 [INFO]: WebSocket server running on ws://localhost:5001
+2026-01-12 01:52:51 [INFO]: Kiosk endpoints available (no auth required):
+2026-01-12 01:52:51 [INFO]:   GET  /api/employees/lookup/:id
+2026-01-12 01:52:51 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2026-01-12 01:52:51 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2026-01-12 01:52:51 [INFO]:   POST /api/attendance/record
+2026-01-12 01:52:51 [INFO]:   GET  /api/attendance/today/:id
+2026-01-12 01:57:23 [INFO]: Database connected
+2026-01-12 01:57:23 [INFO]: Default data initialization complete
+2026-01-12 01:57:23 [INFO]: Server running on http://localhost:5001
+2026-01-12 01:57:23 [INFO]: WebSocket server running on ws://localhost:5001
+2026-01-12 01:57:23 [INFO]: Kiosk endpoints available (no auth required):
+2026-01-12 01:57:23 [INFO]:   GET  /api/employees/lookup/:id
+2026-01-12 01:57:23 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2026-01-12 01:57:23 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2026-01-12 01:57:23 [INFO]:   POST /api/attendance/record
+2026-01-12 01:57:23 [INFO]:   GET  /api/attendance/today/:id
+2026-01-12 01:57:51 [INFO]: Raw connection from ::1:44604
+2026-01-12 01:57:51 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 01:57:51 [INFO]: Raw connection from ::1:44605
+2026-01-12 01:57:51 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 01:57:57 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 01:57:57 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 01:58:28 [INFO]: Raw connection from ::1:45574
+2026-01-12 01:58:28 [INFO]: Raw connection from ::1:45575
+2026-01-12 01:58:29 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 01:58:29 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 01:59:25 [INFO]: Raw connection from ::1:46541
+2026-01-12 01:59:25 [INFO]: Incoming request: POST /api/auth/login
+2026-01-12 01:59:25 [INFO]: Login attempt for email: admin@company.com
+2026-01-12 01:59:25 [INFO]: User logged in: admin@company.com
+2026-01-12 01:59:25 [INFO]: Raw connection from ::1:46547
+2026-01-12 01:59:25 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 01:59:25 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 01:59:28 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 01:59:48 [INFO]: Raw connection from ::1:46884
+2026-01-12 01:59:48 [INFO]: Raw connection from ::1:46885
+2026-01-12 01:59:48 [INFO]: Raw connection from ::1:46886
+2026-01-12 01:59:48 [INFO]: Raw connection from ::1:46887
+2026-01-12 01:59:48 [INFO]: Raw connection from ::1:46888
+2026-01-12 01:59:48 [INFO]: Raw connection from ::1:46889
+2026-01-12 01:59:48 [INFO]: Incoming request: GET /api/shifts
+2026-01-12 01:59:48 [INFO]: Incoming request: GET /api/departments
+2026-01-12 01:59:48 [INFO]: Incoming request: GET /api/employees?offset=0&limit=10&search=
+2026-01-12 01:59:48 [INFO]: Incoming request: GET /api/fingerprint/status
+2026-01-12 01:59:48 [INFO]: Incoming request: GET /api/fingerprint/status
+2026-01-12 01:59:48 [INFO]: Incoming request: GET /api/shifts
+2026-01-12 01:59:49 [INFO]: Incoming request: GET /api/employees?offset=0&limit=10&search=
+2026-01-12 01:59:49 [INFO]: Incoming request: GET /api/departments
+2026-01-12 01:59:49 [INFO]: Raw connection from ::1:46901
+2026-01-12 01:59:49 [INFO]: Incoming request: GET /uploads/photos/employee-1766890237786-24300002.png
+2026-01-12 01:59:55 [INFO]: Raw connection from ::1:46992
+2026-01-12 01:59:55 [INFO]: Raw connection from ::1:46993
+2026-01-12 01:59:55 [INFO]: Raw connection from ::1:46994
+2026-01-12 01:59:55 [INFO]: Raw connection from ::1:46995
+2026-01-12 01:59:55 [INFO]: Incoming request: GET /api/employees?limit=1000
+2026-01-12 01:59:55 [INFO]: Incoming request: GET /api/departments
+2026-01-12 01:59:55 [INFO]: Incoming request: GET /api/departments
+2026-01-12 01:59:55 [INFO]: Incoming request: GET /api/employees?limit=1000
+2026-01-12 01:59:58 [INFO]: Incoming request: GET /api/employees?limit=1000
+2026-01-12 01:59:58 [INFO]: Incoming request: GET /api/shifts
+2026-01-12 01:59:58 [INFO]: Incoming request: GET /api/shifts
+2026-01-12 01:59:58 [INFO]: Incoming request: GET /api/employees?limit=1000
+2026-01-12 02:00:02 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:00:02 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:00:28 [INFO]: Raw connection from ::1:47462
+2026-01-12 02:00:29 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:00:32 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:00:32 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:01:02 [INFO]: Raw connection from ::1:47964
+2026-01-12 02:01:02 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:01:02 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:01:28 [INFO]: Raw connection from ::1:48326
+2026-01-12 02:01:29 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:01:32 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:01:32 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:02:02 [INFO]: Raw connection from ::1:48799
+2026-01-12 02:02:02 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:02:02 [INFO]: Raw connection from ::1:48800
+2026-01-12 02:02:02 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:02:29 [INFO]: Raw connection from ::1:49195
+2026-01-12 02:02:29 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:02:32 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:02:32 [INFO]: Raw connection from ::1:49212
+2026-01-12 02:02:32 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:03:02 [INFO]: Raw connection from ::1:49626
+2026-01-12 02:03:02 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:03:02 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:03:29 [INFO]: Raw connection from ::1:49978
+2026-01-12 02:03:29 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:03:32 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:03:32 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:04:02 [INFO]: Raw connection from ::1:50466
+2026-01-12 02:04:02 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:04:02 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:04:29 [INFO]: Raw connection from ::1:50836
+2026-01-12 02:04:29 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:04:32 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:04:32 [INFO]: Raw connection from ::1:50890
+2026-01-12 02:04:32 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:05:02 [INFO]: Raw connection from ::1:51314
+2026-01-12 02:05:02 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:05:03 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:05:32 [INFO]: Raw connection from ::1:51741
+2026-01-12 02:05:32 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:05:33 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:06:03 [INFO]: Raw connection from ::1:52157
+2026-01-12 02:06:03 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:06:03 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:06:06 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:06:33 [INFO]: Raw connection from ::1:52580
+2026-01-12 02:06:33 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:06:33 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:07:03 [INFO]: Raw connection from ::1:52976
+2026-01-12 02:07:03 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:07:03 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:07:06 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:07:33 [INFO]: Raw connection from ::1:53405
+2026-01-12 02:07:33 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:07:33 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:08:00 [INFO]: Raw connection from ::1:53782
+2026-01-12 02:08:00 [INFO]: Raw connection from ::1:53783
+2026-01-12 02:08:00 [INFO]: Raw connection from ::1:53784
+2026-01-12 02:08:00 [INFO]: Raw connection from ::1:53785
+2026-01-12 02:08:00 [INFO]: Incoming request: GET /api/time-entries?page=1&limit=25&startDate=2026-01-01&endDate=2026-01-31
+2026-01-12 02:08:00 [INFO]: Incoming request: GET /api/employees?limit=1000&status=active
+2026-01-12 02:08:00 [INFO]: Incoming request: GET /api/employees?limit=1000&status=active
+2026-01-12 02:08:00 [INFO]: Incoming request: GET /api/time-entries?page=1&limit=25&startDate=2026-01-01&endDate=2026-01-31
+2026-01-12 02:08:05 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:08:11 [INFO]: Incoming request: GET /api/time-entries?page=1&limit=25&startDate=2026-01-01&endDate=2026-01-31
+2026-01-12 02:08:21 [INFO]: Raw connection from ::1:54075
+2026-01-12 02:08:21 [INFO]: Incoming request: GET /api/time-entries?page=1&limit=25&startDate=2026-01-01&endDate=2026-01-31
+2026-01-12 02:08:28 [INFO]: Raw connection from ::1:54180
+2026-01-12 02:08:28 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:08:31 [INFO]: Incoming request: GET /api/time-entries?page=1&limit=25&startDate=2026-01-01&endDate=2026-01-31
+2026-01-12 02:08:41 [INFO]: Raw connection from ::1:54402
+2026-01-12 02:08:41 [INFO]: Incoming request: GET /api/time-entries?page=1&limit=25&startDate=2026-01-01&endDate=2026-01-31
+2026-01-12 02:08:51 [INFO]: Raw connection from ::1:54519
+2026-01-12 02:08:51 [INFO]: Incoming request: GET /api/time-entries?page=1&limit=25&startDate=2026-01-01&endDate=2026-01-31
+2026-01-12 02:09:00 [INFO]: Raw connection from ::1:54684
+2026-01-12 02:09:00 [INFO]: Incoming request: GET /api/time-entries?page=1&limit=25&startDate=2026-01-01&endDate=2026-01-31
+2026-01-12 02:09:11 [INFO]: Raw connection from ::1:54788
+2026-01-12 02:09:11 [INFO]: Incoming request: GET /api/time-entries?page=1&limit=25&startDate=2026-01-01&endDate=2026-01-31
+2026-01-12 02:09:14 [INFO]: Raw connection from ::1:54849
+2026-01-12 02:09:14 [INFO]: Raw connection from ::1:54850
+2026-01-12 02:09:14 [INFO]: Raw connection from ::1:54851
+2026-01-12 02:09:14 [INFO]: Raw connection from ::1:54852
+2026-01-12 02:09:14 [INFO]: Incoming request: GET /api/users
+2026-01-12 02:09:14 [INFO]: Incoming request: GET /api/users/admin/role-stats
+2026-01-12 02:09:14 [INFO]: Incoming request: GET /api/users/admin/available-employees
+2026-01-12 02:09:14 [INFO]: Incoming request: GET /api/users
+2026-01-12 02:09:14 [INFO]: Incoming request: GET /api/users/admin/available-employees
+2026-01-12 02:09:14 [INFO]: Incoming request: GET /api/users/admin/role-stats
+2026-01-12 02:09:29 [INFO]: Raw connection from ::1:55088
+2026-01-12 02:09:29 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:11:06 [INFO]: Raw connection from ::1:56506
+2026-01-12 02:11:06 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:12:34 [INFO]: Database connected
+2026-01-12 02:12:34 [INFO]: Default data initialization complete
+2026-01-12 02:12:34 [INFO]: Server running on http://localhost:5001
+2026-01-12 02:12:34 [INFO]: WebSocket server running on ws://localhost:5001
+2026-01-12 02:12:34 [INFO]: Kiosk endpoints available (no auth required):
+2026-01-12 02:12:34 [INFO]:   GET  /api/employees/lookup/:id
+2026-01-12 02:12:34 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2026-01-12 02:12:34 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2026-01-12 02:12:34 [INFO]:   POST /api/attendance/record
+2026-01-12 02:12:34 [INFO]:   GET  /api/attendance/today/:id
+2026-01-12 02:12:47 [INFO]: Raw connection from ::1:58103
+2026-01-12 02:12:47 [INFO]: Raw connection from ::1:58104
+2026-01-12 02:12:47 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:12:47 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:12:47 [INFO]: Incoming request: GET /api/users
+2026-01-12 02:12:47 [INFO]: Raw connection from ::1:58109
+2026-01-12 02:12:47 [INFO]: Incoming request: GET /api/users/admin/role-stats
+2026-01-12 02:12:47 [INFO]: Incoming request: GET /api/users/admin/available-employees
+2026-01-12 02:12:47 [INFO]: Incoming request: GET /api/users
+2026-01-12 02:12:47 [INFO]: Incoming request: GET /api/users/admin/available-employees
+2026-01-12 02:12:47 [INFO]: Incoming request: GET /api/users/admin/role-stats
+2026-01-12 02:12:58 [INFO]: Raw connection from ::1:58310
+2026-01-12 02:12:58 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:12:59 [INFO]: Raw connection from ::1:58327
+2026-01-12 02:12:59 [INFO]: Raw connection from ::1:58328
+2026-01-12 02:12:59 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:12:59 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:12:59 [INFO]: Raw connection from ::1:58334
+2026-01-12 02:12:59 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:12:59 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:13:06 [INFO]: Raw connection from ::1:58427
+2026-01-12 02:13:06 [INFO]: Raw connection from ::1:58428
+2026-01-12 02:13:06 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:13:06 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:13:06 [INFO]: Raw connection from ::1:58429
+2026-01-12 02:13:06 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:13:06 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:13:18 [INFO]: Raw connection from ::1:58641
+2026-01-12 02:13:18 [INFO]: Raw connection from ::1:58642
+2026-01-12 02:13:18 [INFO]: Incoming request: GET /api/dashboard/today-attendance
+2026-01-12 02:13:18 [INFO]: Incoming request: GET /api/dashboard/stats
+2026-01-12 02:13:25 [INFO]: Raw connection from ::1:58695
+2026-01-12 02:13:25 [INFO]: Raw connection from ::1:58697
+2026-01-12 02:13:25 [INFO]: Raw connection from ::1:58698
+2026-01-12 02:13:25 [INFO]: Raw connection from ::1:58699
+2026-01-12 02:13:25 [INFO]: Raw connection from ::1:58700
+2026-01-12 02:13:25 [INFO]: Raw connection from ::1:58701
+2026-01-12 02:13:25 [INFO]: Incoming request: GET /api/fingerprint/status
+2026-01-12 02:13:25 [INFO]: Incoming request: GET /api/employees?offset=0&limit=10&search=
+2026-01-12 02:13:25 [INFO]: Incoming request: GET /api/departments
+2026-01-12 02:13:25 [INFO]: Incoming request: GET /api/shifts
+2026-01-12 02:13:25 [INFO]: Incoming request: GET /api/fingerprint/status
+2026-01-12 02:13:25 [INFO]: Incoming request: GET /api/shifts
+2026-01-12 02:13:25 [INFO]: Incoming request: GET /api/departments
+2026-01-12 02:13:25 [INFO]: Incoming request: GET /api/employees?offset=0&limit=10&search=
+2026-01-12 02:13:25 [INFO]: Raw connection from ::1:58707
+2026-01-12 02:13:25 [INFO]: Incoming request: GET /uploads/photos/employee-1766890237786-24300002.png
+2026-01-12 02:13:33 [INFO]: Raw connection from ::1:58845
+2026-01-12 02:13:33 [INFO]: Raw connection from ::1:58846
+2026-01-12 02:13:33 [INFO]: Raw connection from ::1:58847
+2026-01-12 02:13:33 [INFO]: Raw connection from ::1:58848
+2026-01-12 02:13:33 [INFO]: Incoming request: GET /api/shifts
+2026-01-12 02:13:33 [INFO]: Incoming request: GET /api/employees?limit=1000
+2026-01-12 02:13:33 [INFO]: Incoming request: GET /api/shifts
+2026-01-12 02:13:33 [INFO]: Incoming request: GET /api/employees?limit=1000
+2026-01-12 02:13:48 [INFO]: Raw connection from ::1:59084
+2026-01-12 02:13:48 [INFO]: Incoming request: GET /uploads/photos/employee-1766890237786-24300002.png
+2026-01-12 02:14:04 [INFO]: Raw connection from ::1:59318
+2026-01-12 02:14:04 [INFO]: Raw connection from ::1:59319
+2026-01-12 02:14:04 [INFO]: Raw connection from ::1:59320
+2026-01-12 02:14:04 [INFO]: Raw connection from ::1:59321
+2026-01-12 02:14:04 [INFO]: Raw connection from ::1:59322
+2026-01-12 02:14:04 [INFO]: Raw connection from ::1:59323
+2026-01-12 02:14:04 [INFO]: Incoming request: GET /api/fingerprint/status
+2026-01-12 02:14:04 [INFO]: Incoming request: GET /api/shifts
+2026-01-12 02:14:04 [INFO]: Incoming request: GET /api/departments
+2026-01-12 02:14:04 [INFO]: Incoming request: GET /api/employees?offset=0&limit=10&search=
+2026-01-12 02:14:04 [INFO]: Incoming request: GET /api/fingerprint/status
+2026-01-12 02:14:04 [INFO]: Incoming request: GET /api/shifts
+2026-01-12 02:14:04 [INFO]: Incoming request: GET /api/departments
+2026-01-12 02:14:04 [INFO]: Incoming request: GET /api/employees?offset=0&limit=10&search=
+2026-01-12 02:14:04 [INFO]: Raw connection from ::1:59325
+2026-01-12 02:14:04 [INFO]: Incoming request: GET /uploads/photos/employee-1766890237786-24300002.png
+2026-01-12 02:14:07 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:14:48 [INFO]: Raw connection from ::1:59956
+2026-01-12 02:14:48 [INFO]: Incoming request: GET /api/employees/lookup/1011
+2026-01-12 02:15:06 [INFO]: Raw connection from ::1:60199
+2026-01-12 02:15:06 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:16:07 [INFO]: Raw connection from ::1:61071
+2026-01-12 02:16:07 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:17:07 [INFO]: Raw connection from ::1:61926
+2026-01-12 02:17:07 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:19:23 [INFO]: Database connected
+2026-01-12 02:19:23 [INFO]: Default data initialization complete
+2026-01-12 02:19:23 [INFO]: Server running on http://localhost:5001
+2026-01-12 02:19:23 [INFO]: WebSocket server running on ws://localhost:5001
+2026-01-12 02:19:23 [INFO]: Kiosk endpoints available (no auth required):
+2026-01-12 02:19:23 [INFO]:   GET  /api/employees/lookup/:id
+2026-01-12 02:19:23 [INFO]:   GET  /api/employees/fingerprint-template/:id
+2026-01-12 02:19:23 [INFO]:   POST /api/employees/fingerprint-enroll/:id
+2026-01-12 02:19:23 [INFO]:   POST /api/attendance/record
+2026-01-12 02:19:23 [INFO]:   GET  /api/attendance/today/:id
+2026-01-12 02:19:34 [INFO]: Raw connection from ::1:64227
+2026-01-12 02:19:34 [INFO]: Raw connection from ::1:64228
+2026-01-12 02:19:34 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:19:34 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:19:35 [INFO]: Raw connection from ::1:64235
+2026-01-12 02:19:35 [INFO]: Raw connection from ::1:64236
+2026-01-12 02:19:35 [INFO]: Raw connection from ::1:64237
+2026-01-12 02:19:35 [INFO]: Raw connection from ::1:64238
+2026-01-12 02:19:35 [INFO]: Incoming request: GET /api/fingerprint/status
+2026-01-12 02:19:35 [INFO]: Incoming request: GET /api/employees?offset=0&limit=10&search=
+2026-01-12 02:19:35 [INFO]: Incoming request: GET /api/shifts
+2026-01-12 02:19:35 [INFO]: Incoming request: GET /api/departments
+2026-01-12 02:19:35 [INFO]: Incoming request: GET /api/fingerprint/status
+2026-01-12 02:19:35 [INFO]: Incoming request: GET /api/departments
+2026-01-12 02:19:35 [INFO]: Incoming request: GET /api/shifts
+2026-01-12 02:19:35 [INFO]: Incoming request: GET /api/employees?offset=0&limit=10&search=
+2026-01-12 02:19:35 [INFO]: Raw connection from ::1:64251
+2026-01-12 02:19:35 [INFO]: Incoming request: GET /uploads/photos/employee-1766890237786-24300002.png
+2026-01-12 02:21:06 [INFO]: Raw connection from ::1:65527
+2026-01-12 02:21:06 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:22:32 [INFO]: Raw connection from ::1:2335
+2026-01-12 02:22:32 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:22:33 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:22:33 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:22:33 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:22:33 [INFO]: Raw connection from ::1:2351
+2026-01-12 02:22:33 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:22:37 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:22:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:22:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:22:37 [INFO]: Raw connection from ::1:2383
+2026-01-12 02:22:37 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:22:55 [INFO]: Raw connection from ::1:2665
+2026-01-12 02:22:55 [INFO]: Incoming request: GET /api/employees/lookup/c1011
+2026-01-12 02:23:22 [INFO]: Raw connection from ::1:3034
+2026-01-12 02:23:22 [INFO]: Incoming request: GET /api/employees/lookup/C1011
+2026-01-12 02:23:22 [INFO]: Raw connection from ::1:3037
+2026-01-12 02:23:22 [INFO]: Incoming request: GET /uploads/photos/employee-1766890237786-24300002.png
+2026-01-12 02:23:38 [INFO]: Raw connection from ::1:3264
+2026-01-12 02:23:38 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:24:38 [INFO]: Raw connection from ::1:4107
+2026-01-12 02:24:38 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:25:38 [INFO]: Raw connection from ::1:4951
+2026-01-12 02:25:38 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:26:38 [INFO]: Raw connection from ::1:5789
+2026-01-12 02:26:38 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:27:37 [INFO]: Raw connection from ::1:6636
+2026-01-12 02:27:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:28:37 [INFO]: Raw connection from ::1:7504
+2026-01-12 02:28:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:29:37 [INFO]: Raw connection from ::1:8875
+2026-01-12 02:29:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:30:37 [INFO]: Raw connection from ::1:9734
+2026-01-12 02:30:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:31:37 [INFO]: Raw connection from ::1:10597
+2026-01-12 02:31:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:32:37 [INFO]: Raw connection from ::1:11463
+2026-01-12 02:32:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:33:37 [INFO]: Raw connection from ::1:12308
+2026-01-12 02:33:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:34:37 [INFO]: Raw connection from ::1:13169
+2026-01-12 02:34:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:35:37 [INFO]: Raw connection from ::1:14025
+2026-01-12 02:35:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:36:37 [INFO]: Raw connection from ::1:14880
+2026-01-12 02:36:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:37:37 [INFO]: Raw connection from ::1:15750
+2026-01-12 02:37:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:38:37 [INFO]: Raw connection from ::1:16577
+2026-01-12 02:38:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:39:37 [INFO]: Raw connection from ::1:17442
+2026-01-12 02:39:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:40:37 [INFO]: Raw connection from ::1:18313
+2026-01-12 02:40:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:41:37 [INFO]: Raw connection from ::1:19158
+2026-01-12 02:41:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:42:37 [INFO]: Raw connection from ::1:20028
+2026-01-12 02:42:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:43:37 [INFO]: Raw connection from ::1:20859
+2026-01-12 02:43:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:44:37 [INFO]: Raw connection from ::1:21729
+2026-01-12 02:44:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:45:37 [INFO]: Raw connection from ::1:22607
+2026-01-12 02:45:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:46:37 [INFO]: Raw connection from ::1:23444
+2026-01-12 02:46:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:47:37 [INFO]: Raw connection from ::1:24315
+2026-01-12 02:47:37 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:47:51 [INFO]: Raw connection from ::1:24489
+2026-01-12 02:47:51 [INFO]: Raw connection from ::1:24490
+2026-01-12 02:47:52 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:47:52 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:47:52 [INFO]: Raw connection from ::1:24495
+2026-01-12 02:47:52 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:47:52 [INFO]: Incoming request: GET /api/auth/me
+2026-01-12 02:48:52 [INFO]: Raw connection from ::1:25379
+2026-01-12 02:48:52 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:49:53 [INFO]: Raw connection from ::1:26268
+2026-01-12 02:49:53 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
+2026-01-12 02:50:53 [INFO]: Raw connection from ::1:27100
+2026-01-12 02:50:53 [INFO]: Incoming request: POST /api/time-entries/auto-clockout
